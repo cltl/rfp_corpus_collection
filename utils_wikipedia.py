@@ -3,7 +3,16 @@ from bs4 import BeautifulSoup
 import wikipedia
 
 def get_wikidata_link(wikipedia_title):
-    target_page = wikipedia.page(wikipedia_title)
+
+    #target_page = wikipedia.page(wikipedia_title)
+    target_candidates = wikipedia.search(wikipedia_title, results = 5)
+    for cand in target_candidates:
+        cand_title = cand.title
+        if wikipedia_title == cand_title:
+            target_page = cand
+            break
+
+
     target_url = target_page.url
     r=requests.get(target_url)
     soup = BeautifulSoup(r.text)

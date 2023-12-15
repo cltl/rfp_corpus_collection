@@ -23,24 +23,38 @@ import waybackpy
 
 def crawl_source_texts(target_q, lang, cutoff = 20):
 
-    target_title = utils_wikipedia.get_wikipedia_title(target_q, lang)
-    print(target_title)
-    target_title_dir = target_title.replace(' ', '_')
+# get English Event name
+    title_en = utils_wikipedia.get_wikipedia_title(target_q, 'en')
+    name_en = title_en.replace(' ', '_')
 
     os.makedirs("corpus", exist_ok=True)
-    text_dir = f"corpus/{target_title_dir}/texts/"
-    wikidata_dir = f"corpus/{target_title_dir}/wikipedia-wikidata/"
-    os.makedirs(target_title_dir, exist_ok=True)
+    text_dir = f"corpus/{name_en}/texts/"
+    wikidata_dir = f"corpus/{name_en}/wikipedia-wikidata/"
     os.makedirs(text_dir, exist_ok=True)
     os.makedirs(wikidata_dir, exist_ok=True)
-    text_dir_lang = f"corpus/{target_title_dir}/texts/{lang}/"
-    wikidata_dir_lang = f"corpus/{target_title_dir}/wikipedia-wikidata/{lang}/"
+    text_dir_lang = f"corpus/{name_en}/texts/{lang}/"
+    wikidata_dir_lang = f"corpus/{name_en}/wikipedia-wikidata/{lang}/"
     os.makedirs(text_dir_lang, exist_ok=True)
     os.makedirs(wikidata_dir_lang, exist_ok=True)
 
-    print("looking for page", target_title)
-    target_page = wikipedia.page(target_title)
+    print("looking for page", name_en, 'in', lang)
+    # get actual page in target language
+    target_title = utils_wikipedia.get_wikipedia_title(target_q, lang)
+    print("Found target title", target_title)
+    target_page = wikipedia.page(target_title, auto_suggest=False)
+    # target_candidates = wikipedia.search(target_title, results = 10, suggestion=True)
+    # print(target_candidates)
+    # for cand, sugg in target_candidates:
+    #     #cand_title = cand.title()
+    #     print(type(cand), cand)
+    #     print(type(sugg), sugg)
+    #     cand_title = cand
+    #     if target_title == cand_title:
+    #         target_page = cand
+    #         print('match!', target_page.title(), type(target_page))
+    #         break
     print("Found target page")
+    print(target_page)
     wikipedia_url = target_page.url
     target_references = target_page.references
     # os.makedirs('texts', exist_ok = True)
@@ -51,7 +65,12 @@ def crawl_source_texts(target_q, lang, cutoff = 20):
     structured_dict['wikidata_q'] = target_q
     structured_dict['texts'] = dict()
     user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:40.0) Gecko/20100101 Firefox/40.0"
-    for a_id, url in enumerate(target_references[:cutoff]):
+    if cutoff != -1:
+        target_references_sliced = target_references[:cutoff]
+    else:
+        target_references_sliced = target_references
+
+    for a_id, url in enumerate(target_references_sliced):
         oldest_url = None
         try:
             cdx_api_instance = WaybackMachineCDXServerAPI(url, user_agent)
@@ -88,11 +107,11 @@ def crawl_source_texts(target_q, lang, cutoff = 20):
                 article_dict['wayback_url'] = oldest_url
                 article_dict['a_id'] = f'{target_q}-{a_id}'
 
-                with open(f"corpus/{target_title_dir}/texts/{lang}/{target_q}-{a_id}.json", 'w') as outfile:
+                with open(f"corpus/{name_en}/texts/{lang}/{target_q}-{a_id}.json", 'w') as outfile:
                     json.dump(article_dict, outfile)
             except newspaper.ArticleException:
                 print('article exception')
         else:
             continue
-    with open(f'corpus/{target_title_dir}/wikipedia-wikidata/{lang}/{target_q}.json', 'w') as outfile:
+    with open(f'corpus/{name_en}/wikipedia-wikidata/{lang}/{target_q}.json', 'w') as outfile:
         json.dump(structured_dict, outfile)
