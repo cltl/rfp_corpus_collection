@@ -1,0 +1,38 @@
+{
+    "title": "Sedmi\u010dni pregled gledanosti televizije",
+    "text": "Sedmi\u010dni pregled gledanosti televizije\n",
+    "original_url": "https://www.rts.rs/page/rts/sr/CIPA/story/265/vesti/4384453/sedmicni-pregled-gledanosti-televizije.html",
+    "wayback_url": "https://web.archive.org/web/20210524163539/https://www.rts.rs/page/rts/sr/CIPA/story/265/vesti/4384453/sedmicni-pregled-gledanosti-televizije.html",
+    "a_id": "Q50729731-132",
+    "coref": [],
+    "id_token": [
+        "Sedmi\u010dni",
+        "pregled",
+        "gledanosti",
+        "televizije",
+        "\n"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 8
+        },
+        {
+            "start": 9,
+            "end": 16
+        },
+        {
+            "start": 17,
+            "end": 27
+        },
+        {
+            "start": 28,
+            "end": 38
+        },
+        {
+            "start": 38,
+            "end": 39
+        }
+    ],
+    "coref_text": []
+}

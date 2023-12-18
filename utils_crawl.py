@@ -8,6 +8,7 @@ import os
 # https://pypi.org/project/wikipedia/
 # Wrapper for https://www.mediawiki.org/wiki/API
 import wikipedia
+from wikipedia import exceptions
 # crawl and parse news
 from newsplease import NewsPlease
 
@@ -40,21 +41,19 @@ def crawl_source_texts(target_q, lang, cutoff = 20):
     print("looking for page", name_en, 'in', lang)
     # get actual page in target language
     target_title = utils_wikipedia.get_wikipedia_title(target_q, lang)
-    print("Found target title", target_title)
-    target_page = wikipedia.page(target_title, auto_suggest=False)
-    # target_candidates = wikipedia.search(target_title, results = 10, suggestion=True)
-    # print(target_candidates)
-    # for cand, sugg in target_candidates:
-    #     #cand_title = cand.title()
-    #     print(type(cand), cand)
-    #     print(type(sugg), sugg)
-    #     cand_title = cand
-    #     if target_title == cand_title:
-    #         target_page = cand
-    #         print('match!', target_page.title(), type(target_page))
-    #         break
+    # Search for it in wikipedia
+    print(target_title, lang)
+    wikipedia.set_lang(lang)
+
+    try:
+        target_page = wikipedia.page(target_title, auto_suggest=False)
+    except exceptions.PageError:
+        print("did not find exact match")
+        target_page = wikipedia.page(target_title, auto_suggest=True)
+
     print("Found target page")
     print(target_page)
+    print(target_page.url)
     wikipedia_url = target_page.url
     target_references = target_page.references
     # os.makedirs('texts', exist_ok = True)
@@ -90,7 +89,7 @@ def crawl_source_texts(target_q, lang, cutoff = 20):
         if not oldest_url is None:
             try:
                 article_dict = dict()
-                article = NewsPlease.from_url(oldest_url, timeout = 4)
+                article = NewsPlease.from_url(oldest_url, timeout = 10)
                 #article.download()
                 #articles.append(article)
                 if not article.title is None:
