@@ -53,11 +53,13 @@ def create_doc_json(doc, text_dict):
 
 def main():
     event_name = "Eurovision_Song_Contest_2021"
-    lang = "fr"
+    lang = "de"
     if lang  == 'en':
         nlp = spacy.load('en_core_web_trf')
     elif lang == 'fr':
         nlp = spacy.load('en_core_web_trf')
+    elif lang == 'de':
+        nlp = spacy.load('de_core_news_lg')
 
     nlp.add_pipe('coreferee')
 
