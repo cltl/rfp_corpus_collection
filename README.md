@@ -24,7 +24,7 @@ Eurovision_Song_Contest_2021/
            ...
        wikipedia.json
 
-The directory `texts` contains texts crawled via the Wikipedia pages about the event in different languages. For example, the Wikipedia page written in Bulgarian (bg) listed x many reference texts, y of which are included in the corpus. Each text is identified by the idenifier of the referent it is about (person or event) and an index (e.g. Q104301564-0). The texts are presented in json format and contain (at least) the raw text. For some texts, we provide manual or automatic annotations (FrameSemantic annotations, coreference, entity linking). 
+The directory `texts` contains texts crawled via the Wikipedia pages about the event in different languages. For example, the Wikipedia page written in Bulgarian (bg) listed x many reference texts, y of which are included in the corpus. Each text is identified by the idenifier of the referent it is about (person or event) and an index (e.g. Q104301564-0). The texts are presented in json format and contain (at least) the raw text. For some texts, we provide manual or automatic annotations (FrameSemantic annotations, coreference, entity linking).
 
 The file called `wikipdedia.json` contains an overview of the subcorpus and information about the origin of individual documents. It can be used to quickly get infromation about how many documents we have crawled for a specific event in a specific language.  
 
@@ -32,16 +32,16 @@ The file called `wikipdedia.json` contains an overview of the subcorpus and info
 
 ## Text representation
 
-Each document is represented in a json file. Each json file contains the text itself (key: text), its headline (key: title) a tokenized version of the text (key: id_token), its original url (key: original_url) and the url used for crawling via Wayback Machine (key: wayback_url). 
+Each document is represented in a json file. Each json file contains the text itself (key: text), its headline (key: title) a tokenized version of the text (key: id_token), its original url (key: original_url) and the url used for crawling via Wayback Machine (key: wayback_url).
 
-The documents in the subcorpora Eurovision_Song_Contest_2019 and Eurovision_Song_Contest_2020 have manual annotations for coreference (key: coref) and semantic roles (key: srl). 
+The documents in the subcorpora Eurovision_Song_Contest_2019 and Eurovision_Song_Contest_2020 have manual annotations for coreference (key: coref) and semantic roles (key: srl).
 
-All documents in the lanugages English, German, French, and Polish have been processed with automatic coreference resolution using an integration of Coreferee in Spacy. 
+Documents in the lanugages English, German, French, and Polish are processed with automatic coreference resolution using an integration of Coreferee in Spacy (updates still coming). 
 
 
 ## Corpus overview
 
-To be updated. 
+To be updated.
 
 ## Corpus collection
 
