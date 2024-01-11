@@ -1,1 +1,703 @@
-{"title": "\"\u041f\u044f\u0442\u044c \u0437\u0432\u0435\u0437\u0434\": \u0432\u043a\u0443\u0441 \u0441\u0432\u0435\u0436\u0435\u0439 \u043a\u0440\u043e\u0432\u0438", "text": "\"\u041f\u044f\u0442\u044c \u0437\u0432\u0435\u0437\u0434\": \u0432\u043a\u0443\u0441 \u0441\u0432\u0435\u0436\u0435\u0439 \u043a\u0440\u043e\u0432\u0438\nThese crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.The goal is to fix all broken links on the web . Crawls of supported \"No More 404\" sites.", "original_url": "https://web.archive.org/web/20160425181050/http://www.vz.ru/culture/2007/9/10/107745.html", "wayback_url": "https://web.archive.org/web/20220910045654/https://web.archive.org/web/20160425181050/http://www.vz.ru/culture/2007/9/10/107745.html", "a_id": "Q29359663-36"}
+{
+    "title": "\"\u041f\u044f\u0442\u044c \u0437\u0432\u0435\u0437\u0434\": \u0432\u043a\u0443\u0441 \u0441\u0432\u0435\u0436\u0435\u0439 \u043a\u0440\u043e\u0432\u0438",
+    "text": "\"\u041f\u044f\u0442\u044c \u0437\u0432\u0435\u0437\u0434\": \u0432\u043a\u0443\u0441 \u0441\u0432\u0435\u0436\u0435\u0439 \u043a\u0440\u043e\u0432\u0438\nThese crawls are part of an effort to archive pages as they are created and archive the pages that they refer to. That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.The goal is to fix all broken links on the web . Crawls of supported \"No More 404\" sites.",
+    "original_url": "https://web.archive.org/web/20160425181050/http://www.vz.ru/culture/2007/9/10/107745.html",
+    "wayback_url": "https://web.archive.org/web/20220910045654/https://web.archive.org/web/20160425181050/http://www.vz.ru/culture/2007/9/10/107745.html",
+    "a_id": "Q29359663-36",
+    "id_token": [
+        "\"",
+        "\u041f\u044f\u0442\u044c",
+        "\u0437\u0432\u0435\u0437\u0434",
+        "\"",
+        ":",
+        "\u0432\u043a\u0443\u0441",
+        "\u0441\u0432\u0435\u0436\u0435\u0439",
+        "\u043a\u0440\u043e\u0432\u0438",
+        "\n",
+        "These",
+        "crawls",
+        "are",
+        "part",
+        "of",
+        "an",
+        "effort",
+        "to",
+        "archive",
+        "pages",
+        "as",
+        "they",
+        "are",
+        "created",
+        "and",
+        "archive",
+        "the",
+        "pages",
+        "that",
+        "they",
+        "refer",
+        "to",
+        ".",
+        "That",
+        "way",
+        ",",
+        "as",
+        "the",
+        "pages",
+        "that",
+        "are",
+        "referenced",
+        "are",
+        "changed",
+        "or",
+        "taken",
+        "from",
+        "the",
+        "web",
+        ",",
+        "a",
+        "link",
+        "to",
+        "the",
+        "version",
+        "that",
+        "was",
+        "live",
+        "when",
+        "the",
+        "page",
+        "was",
+        "written",
+        "will",
+        "be",
+        "preserved",
+        ".",
+        "Then",
+        "the",
+        "Internet",
+        "Archive",
+        "hopes",
+        "that",
+        "references",
+        "to",
+        "these",
+        "archived",
+        "pages",
+        "will",
+        "be",
+        "put",
+        "in",
+        "place",
+        "of",
+        "a",
+        "link",
+        "that",
+        "would",
+        "be",
+        "otherwise",
+        "be",
+        "broken",
+        ",",
+        "or",
+        "a",
+        "companion",
+        "link",
+        "to",
+        "allow",
+        "people",
+        "to",
+        "see",
+        "what",
+        "was",
+        "originally",
+        "intended",
+        "by",
+        "a",
+        "page",
+        "'s",
+        "authors",
+        ".",
+        "The",
+        "goal",
+        "is",
+        "to",
+        "fix",
+        "all",
+        "broken",
+        "links",
+        "on",
+        "the",
+        "web",
+        ".",
+        "Crawls",
+        "of",
+        "supported",
+        "\"",
+        "No",
+        "More",
+        "404",
+        "\"",
+        "sites",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 1
+        },
+        {
+            "start": 1,
+            "end": 5
+        },
+        {
+            "start": 6,
+            "end": 11
+        },
+        {
+            "start": 11,
+            "end": 12
+        },
+        {
+            "start": 12,
+            "end": 13
+        },
+        {
+            "start": 14,
+            "end": 18
+        },
+        {
+            "start": 19,
+            "end": 25
+        },
+        {
+            "start": 26,
+            "end": 31
+        },
+        {
+            "start": 31,
+            "end": 32
+        },
+        {
+            "start": 32,
+            "end": 37
+        },
+        {
+            "start": 38,
+            "end": 44
+        },
+        {
+            "start": 45,
+            "end": 48
+        },
+        {
+            "start": 49,
+            "end": 53
+        },
+        {
+            "start": 54,
+            "end": 56
+        },
+        {
+            "start": 57,
+            "end": 59
+        },
+        {
+            "start": 60,
+            "end": 66
+        },
+        {
+            "start": 67,
+            "end": 69
+        },
+        {
+            "start": 70,
+            "end": 77
+        },
+        {
+            "start": 78,
+            "end": 83
+        },
+        {
+            "start": 84,
+            "end": 86
+        },
+        {
+            "start": 87,
+            "end": 91
+        },
+        {
+            "start": 92,
+            "end": 95
+        },
+        {
+            "start": 96,
+            "end": 103
+        },
+        {
+            "start": 104,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 115
+        },
+        {
+            "start": 116,
+            "end": 119
+        },
+        {
+            "start": 120,
+            "end": 125
+        },
+        {
+            "start": 126,
+            "end": 130
+        },
+        {
+            "start": 131,
+            "end": 135
+        },
+        {
+            "start": 136,
+            "end": 141
+        },
+        {
+            "start": 142,
+            "end": 144
+        },
+        {
+            "start": 144,
+            "end": 145
+        },
+        {
+            "start": 146,
+            "end": 150
+        },
+        {
+            "start": 151,
+            "end": 154
+        },
+        {
+            "start": 154,
+            "end": 155
+        },
+        {
+            "start": 156,
+            "end": 158
+        },
+        {
+            "start": 159,
+            "end": 162
+        },
+        {
+            "start": 163,
+            "end": 168
+        },
+        {
+            "start": 169,
+            "end": 173
+        },
+        {
+            "start": 174,
+            "end": 177
+        },
+        {
+            "start": 178,
+            "end": 188
+        },
+        {
+            "start": 189,
+            "end": 192
+        },
+        {
+            "start": 193,
+            "end": 200
+        },
+        {
+            "start": 201,
+            "end": 203
+        },
+        {
+            "start": 204,
+            "end": 209
+        },
+        {
+            "start": 210,
+            "end": 214
+        },
+        {
+            "start": 215,
+            "end": 218
+        },
+        {
+            "start": 219,
+            "end": 222
+        },
+        {
+            "start": 222,
+            "end": 223
+        },
+        {
+            "start": 224,
+            "end": 225
+        },
+        {
+            "start": 226,
+            "end": 230
+        },
+        {
+            "start": 231,
+            "end": 233
+        },
+        {
+            "start": 234,
+            "end": 237
+        },
+        {
+            "start": 238,
+            "end": 245
+        },
+        {
+            "start": 246,
+            "end": 250
+        },
+        {
+            "start": 251,
+            "end": 254
+        },
+        {
+            "start": 255,
+            "end": 259
+        },
+        {
+            "start": 260,
+            "end": 264
+        },
+        {
+            "start": 265,
+            "end": 268
+        },
+        {
+            "start": 269,
+            "end": 273
+        },
+        {
+            "start": 274,
+            "end": 277
+        },
+        {
+            "start": 278,
+            "end": 285
+        },
+        {
+            "start": 286,
+            "end": 290
+        },
+        {
+            "start": 291,
+            "end": 293
+        },
+        {
+            "start": 294,
+            "end": 303
+        },
+        {
+            "start": 303,
+            "end": 304
+        },
+        {
+            "start": 304,
+            "end": 308
+        },
+        {
+            "start": 309,
+            "end": 312
+        },
+        {
+            "start": 313,
+            "end": 321
+        },
+        {
+            "start": 322,
+            "end": 329
+        },
+        {
+            "start": 330,
+            "end": 335
+        },
+        {
+            "start": 336,
+            "end": 340
+        },
+        {
+            "start": 341,
+            "end": 351
+        },
+        {
+            "start": 352,
+            "end": 354
+        },
+        {
+            "start": 355,
+            "end": 360
+        },
+        {
+            "start": 361,
+            "end": 369
+        },
+        {
+            "start": 370,
+            "end": 375
+        },
+        {
+            "start": 376,
+            "end": 380
+        },
+        {
+            "start": 381,
+            "end": 383
+        },
+        {
+            "start": 384,
+            "end": 387
+        },
+        {
+            "start": 388,
+            "end": 390
+        },
+        {
+            "start": 391,
+            "end": 396
+        },
+        {
+            "start": 397,
+            "end": 399
+        },
+        {
+            "start": 400,
+            "end": 401
+        },
+        {
+            "start": 402,
+            "end": 406
+        },
+        {
+            "start": 407,
+            "end": 411
+        },
+        {
+            "start": 412,
+            "end": 417
+        },
+        {
+            "start": 418,
+            "end": 420
+        },
+        {
+            "start": 421,
+            "end": 430
+        },
+        {
+            "start": 431,
+            "end": 433
+        },
+        {
+            "start": 434,
+            "end": 440
+        },
+        {
+            "start": 440,
+            "end": 441
+        },
+        {
+            "start": 442,
+            "end": 444
+        },
+        {
+            "start": 445,
+            "end": 446
+        },
+        {
+            "start": 447,
+            "end": 456
+        },
+        {
+            "start": 457,
+            "end": 461
+        },
+        {
+            "start": 462,
+            "end": 464
+        },
+        {
+            "start": 465,
+            "end": 470
+        },
+        {
+            "start": 471,
+            "end": 477
+        },
+        {
+            "start": 478,
+            "end": 480
+        },
+        {
+            "start": 481,
+            "end": 484
+        },
+        {
+            "start": 485,
+            "end": 489
+        },
+        {
+            "start": 490,
+            "end": 493
+        },
+        {
+            "start": 494,
+            "end": 504
+        },
+        {
+            "start": 505,
+            "end": 513
+        },
+        {
+            "start": 514,
+            "end": 516
+        },
+        {
+            "start": 517,
+            "end": 518
+        },
+        {
+            "start": 519,
+            "end": 523
+        },
+        {
+            "start": 523,
+            "end": 525
+        },
+        {
+            "start": 526,
+            "end": 533
+        },
+        {
+            "start": 533,
+            "end": 534
+        },
+        {
+            "start": 534,
+            "end": 537
+        },
+        {
+            "start": 538,
+            "end": 542
+        },
+        {
+            "start": 543,
+            "end": 545
+        },
+        {
+            "start": 546,
+            "end": 548
+        },
+        {
+            "start": 549,
+            "end": 552
+        },
+        {
+            "start": 553,
+            "end": 556
+        },
+        {
+            "start": 557,
+            "end": 563
+        },
+        {
+            "start": 564,
+            "end": 569
+        },
+        {
+            "start": 570,
+            "end": 572
+        },
+        {
+            "start": 573,
+            "end": 576
+        },
+        {
+            "start": 577,
+            "end": 580
+        },
+        {
+            "start": 581,
+            "end": 582
+        },
+        {
+            "start": 583,
+            "end": 589
+        },
+        {
+            "start": 590,
+            "end": 592
+        },
+        {
+            "start": 593,
+            "end": 602
+        },
+        {
+            "start": 603,
+            "end": 604
+        },
+        {
+            "start": 604,
+            "end": 606
+        },
+        {
+            "start": 607,
+            "end": 611
+        },
+        {
+            "start": 612,
+            "end": 615
+        },
+        {
+            "start": 615,
+            "end": 616
+        },
+        {
+            "start": 617,
+            "end": 622
+        },
+        {
+            "start": 622,
+            "end": 623
+        }
+    ],
+    "coref": [
+        {
+            "crawls": [
+                [
+                    10
+                ]
+            ],
+            "they": [
+                [
+                    20
+                ],
+                [
+                    28
+                ]
+            ]
+        },
+        {
+            "web": [
+                [
+                    47
+                ],
+                [
+                    121
+                ]
+            ]
+        }
+    ]
+}

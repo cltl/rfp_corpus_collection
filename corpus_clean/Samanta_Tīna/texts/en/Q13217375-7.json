@@ -1,1 +1,912 @@
-{"title": "Eurovision 2014", "text": "Eurovision 2014\n# Performer Song Songwriters\n01. Ralfs Eilands, Valters P\u016bce and Nelli Bubujanca Revelation Ralfs Eilands, Valters P\u016bce, Ansis Gr\u016bbe - R.Eilands\n02. Katrine Lukins You Are the Reason Katrine Lukins, K\u0101rlis Indri\u0161onoks - K.Lukins\n03. Mad Show Boys I Need a Soul-twin M\u0101rti\u0146\u0161 Kits\n04. Markus Riva Lights On Gaitis Lazd\u0101ns - Markus Riva\n05. Anete Volmane Breathe Slow Edgars Vi\u013cums - Anete Volmane\n06. Rolands \u016adris What If It Was Rolands \u016adris\n07. Katr\u012bna Bindere Moment and Tomorrow Edgars Be\u013cickis, K\u0101rlis Auzi\u0146\u0161 - Mikus Fri\u0161velds\n08. Andris Kivi\u010ds Pa vidu tu (You in the middle) Andris Kivi\u010ds\n09. Dons P\u0113d\u0113j\u0101 v\u0113stule (The last letter) Art\u016brs \u0160ingirejs - Ingus B\u0113rzi\u0146\u0161\n10. Sab\u012bne Vidri\u0137e Is It Possible Edgard Kokorevi\u010ds - Sab\u012bne Vidri\u0137e\n11. Sab\u012bne Berezina Pressure \u017danna Berezina", "original_url": "http://esckaz.com/2014/lat.htm", "wayback_url": "https://web.archive.org/web/20140131091941/http://esckaz.com:80/2014/lat.htm", "a_id": "Q13217375-7"}
+{
+    "title": "Eurovision 2014",
+    "text": "Eurovision 2014\n# Performer Song Songwriters\n01. Ralfs Eilands, Valters P\u016bce and Nelli Bubujanca Revelation Ralfs Eilands, Valters P\u016bce, Ansis Gr\u016bbe - R.Eilands\n02. Katrine Lukins You Are the Reason Katrine Lukins, K\u0101rlis Indri\u0161onoks - K.Lukins\n03. Mad Show Boys I Need a Soul-twin M\u0101rti\u0146\u0161 Kits\n04. Markus Riva Lights On Gaitis Lazd\u0101ns - Markus Riva\n05. Anete Volmane Breathe Slow Edgars Vi\u013cums - Anete Volmane\n06. Rolands \u016adris What If It Was Rolands \u016adris\n07. Katr\u012bna Bindere Moment and Tomorrow Edgars Be\u013cickis, K\u0101rlis Auzi\u0146\u0161 - Mikus Fri\u0161velds\n08. Andris Kivi\u010ds Pa vidu tu (You in the middle) Andris Kivi\u010ds\n09. Dons P\u0113d\u0113j\u0101 v\u0113stule (The last letter) Art\u016brs \u0160ingirejs - Ingus B\u0113rzi\u0146\u0161\n10. Sab\u012bne Vidri\u0137e Is It Possible Edgard Kokorevi\u010ds - Sab\u012bne Vidri\u0137e\n11. Sab\u012bne Berezina Pressure \u017danna Berezina",
+    "original_url": "http://esckaz.com/2014/lat.htm",
+    "wayback_url": "https://web.archive.org/web/20140131091941/http://esckaz.com:80/2014/lat.htm",
+    "a_id": "Q13217375-7",
+    "id_token": [
+        "Eurovision",
+        "2014",
+        "\n",
+        "#",
+        "Performer",
+        "Song",
+        "Songwriters",
+        "\n",
+        "01",
+        ".",
+        "Ralfs",
+        "Eilands",
+        ",",
+        "Valters",
+        "P\u016bce",
+        "and",
+        "Nelli",
+        "Bubujanca",
+        "Revelation",
+        "Ralfs",
+        "Eilands",
+        ",",
+        "Valters",
+        "P\u016bce",
+        ",",
+        "Ansis",
+        "Gr\u016bbe",
+        "-",
+        "R.Eilands",
+        "\n",
+        "02",
+        ".",
+        "Katrine",
+        "Lukins",
+        "You",
+        "Are",
+        "the",
+        "Reason",
+        "Katrine",
+        "Lukins",
+        ",",
+        "K\u0101rlis",
+        "Indri\u0161onoks",
+        "-",
+        "K.Lukins",
+        "\n",
+        "03",
+        ".",
+        "Mad",
+        "Show",
+        "Boys",
+        "I",
+        "Need",
+        "a",
+        "Soul",
+        "-",
+        "twin",
+        "M\u0101rti\u0146\u0161",
+        "Kits",
+        "\n",
+        "04",
+        ".",
+        "Markus",
+        "Riva",
+        "Lights",
+        "On",
+        "Gaitis",
+        "Lazd\u0101ns",
+        "-",
+        "Markus",
+        "Riva",
+        "\n",
+        "05",
+        ".",
+        "Anete",
+        "Volmane",
+        "Breathe",
+        "Slow",
+        "Edgars",
+        "Vi\u013cums",
+        "-",
+        "Anete",
+        "Volmane",
+        "\n",
+        "06",
+        ".",
+        "Rolands",
+        "\u016adris",
+        "What",
+        "If",
+        "It",
+        "Was",
+        "Rolands",
+        "\u016adris",
+        "\n",
+        "07",
+        ".",
+        "Katr\u012bna",
+        "Bindere",
+        "Moment",
+        "and",
+        "Tomorrow",
+        "Edgars",
+        "Be\u013cickis",
+        ",",
+        "K\u0101rlis",
+        "Auzi\u0146\u0161",
+        "-",
+        "Mikus",
+        "Fri\u0161velds",
+        "\n",
+        "08",
+        ".",
+        "Andris",
+        "Kivi\u010ds",
+        "Pa",
+        "vidu",
+        "tu",
+        "(",
+        "You",
+        "in",
+        "the",
+        "middle",
+        ")",
+        "Andris",
+        "Kivi\u010ds",
+        "\n",
+        "09",
+        ".",
+        "Dons",
+        "P\u0113d\u0113j\u0101",
+        "v\u0113stule",
+        "(",
+        "The",
+        "last",
+        "letter",
+        ")",
+        "Art\u016brs",
+        "\u0160ingirejs",
+        "-",
+        "Ingus",
+        "B\u0113rzi\u0146\u0161",
+        "\n",
+        "10",
+        ".",
+        "Sab\u012bne",
+        "Vidri\u0137e",
+        "Is",
+        "It",
+        "Possible",
+        "Edgard",
+        "Kokorevi\u010ds",
+        "-",
+        "Sab\u012bne",
+        "Vidri\u0137e",
+        "\n",
+        "11",
+        ".",
+        "Sab\u012bne",
+        "Berezina",
+        "Pressure",
+        "\u017danna",
+        "Berezina"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 10
+        },
+        {
+            "start": 11,
+            "end": 15
+        },
+        {
+            "start": 15,
+            "end": 16
+        },
+        {
+            "start": 16,
+            "end": 17
+        },
+        {
+            "start": 18,
+            "end": 27
+        },
+        {
+            "start": 28,
+            "end": 32
+        },
+        {
+            "start": 33,
+            "end": 44
+        },
+        {
+            "start": 44,
+            "end": 45
+        },
+        {
+            "start": 45,
+            "end": 47
+        },
+        {
+            "start": 47,
+            "end": 48
+        },
+        {
+            "start": 49,
+            "end": 54
+        },
+        {
+            "start": 55,
+            "end": 62
+        },
+        {
+            "start": 62,
+            "end": 63
+        },
+        {
+            "start": 64,
+            "end": 71
+        },
+        {
+            "start": 72,
+            "end": 76
+        },
+        {
+            "start": 77,
+            "end": 80
+        },
+        {
+            "start": 81,
+            "end": 86
+        },
+        {
+            "start": 87,
+            "end": 96
+        },
+        {
+            "start": 97,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 113
+        },
+        {
+            "start": 114,
+            "end": 121
+        },
+        {
+            "start": 121,
+            "end": 122
+        },
+        {
+            "start": 123,
+            "end": 130
+        },
+        {
+            "start": 131,
+            "end": 135
+        },
+        {
+            "start": 135,
+            "end": 136
+        },
+        {
+            "start": 137,
+            "end": 142
+        },
+        {
+            "start": 143,
+            "end": 148
+        },
+        {
+            "start": 149,
+            "end": 150
+        },
+        {
+            "start": 151,
+            "end": 160
+        },
+        {
+            "start": 160,
+            "end": 161
+        },
+        {
+            "start": 161,
+            "end": 163
+        },
+        {
+            "start": 163,
+            "end": 164
+        },
+        {
+            "start": 165,
+            "end": 172
+        },
+        {
+            "start": 173,
+            "end": 179
+        },
+        {
+            "start": 180,
+            "end": 183
+        },
+        {
+            "start": 184,
+            "end": 187
+        },
+        {
+            "start": 188,
+            "end": 191
+        },
+        {
+            "start": 192,
+            "end": 198
+        },
+        {
+            "start": 199,
+            "end": 206
+        },
+        {
+            "start": 207,
+            "end": 213
+        },
+        {
+            "start": 213,
+            "end": 214
+        },
+        {
+            "start": 215,
+            "end": 221
+        },
+        {
+            "start": 222,
+            "end": 233
+        },
+        {
+            "start": 234,
+            "end": 235
+        },
+        {
+            "start": 236,
+            "end": 244
+        },
+        {
+            "start": 244,
+            "end": 245
+        },
+        {
+            "start": 245,
+            "end": 247
+        },
+        {
+            "start": 247,
+            "end": 248
+        },
+        {
+            "start": 249,
+            "end": 252
+        },
+        {
+            "start": 253,
+            "end": 257
+        },
+        {
+            "start": 258,
+            "end": 262
+        },
+        {
+            "start": 263,
+            "end": 264
+        },
+        {
+            "start": 265,
+            "end": 269
+        },
+        {
+            "start": 270,
+            "end": 271
+        },
+        {
+            "start": 272,
+            "end": 276
+        },
+        {
+            "start": 276,
+            "end": 277
+        },
+        {
+            "start": 277,
+            "end": 281
+        },
+        {
+            "start": 282,
+            "end": 289
+        },
+        {
+            "start": 290,
+            "end": 294
+        },
+        {
+            "start": 294,
+            "end": 295
+        },
+        {
+            "start": 295,
+            "end": 297
+        },
+        {
+            "start": 297,
+            "end": 298
+        },
+        {
+            "start": 299,
+            "end": 305
+        },
+        {
+            "start": 306,
+            "end": 310
+        },
+        {
+            "start": 311,
+            "end": 317
+        },
+        {
+            "start": 318,
+            "end": 320
+        },
+        {
+            "start": 321,
+            "end": 327
+        },
+        {
+            "start": 328,
+            "end": 335
+        },
+        {
+            "start": 336,
+            "end": 337
+        },
+        {
+            "start": 338,
+            "end": 344
+        },
+        {
+            "start": 345,
+            "end": 349
+        },
+        {
+            "start": 349,
+            "end": 350
+        },
+        {
+            "start": 350,
+            "end": 352
+        },
+        {
+            "start": 352,
+            "end": 353
+        },
+        {
+            "start": 354,
+            "end": 359
+        },
+        {
+            "start": 360,
+            "end": 367
+        },
+        {
+            "start": 368,
+            "end": 375
+        },
+        {
+            "start": 376,
+            "end": 380
+        },
+        {
+            "start": 381,
+            "end": 387
+        },
+        {
+            "start": 388,
+            "end": 394
+        },
+        {
+            "start": 395,
+            "end": 396
+        },
+        {
+            "start": 397,
+            "end": 402
+        },
+        {
+            "start": 403,
+            "end": 410
+        },
+        {
+            "start": 410,
+            "end": 411
+        },
+        {
+            "start": 411,
+            "end": 413
+        },
+        {
+            "start": 413,
+            "end": 414
+        },
+        {
+            "start": 415,
+            "end": 422
+        },
+        {
+            "start": 423,
+            "end": 428
+        },
+        {
+            "start": 429,
+            "end": 433
+        },
+        {
+            "start": 434,
+            "end": 436
+        },
+        {
+            "start": 437,
+            "end": 439
+        },
+        {
+            "start": 440,
+            "end": 443
+        },
+        {
+            "start": 444,
+            "end": 451
+        },
+        {
+            "start": 452,
+            "end": 457
+        },
+        {
+            "start": 457,
+            "end": 458
+        },
+        {
+            "start": 458,
+            "end": 460
+        },
+        {
+            "start": 460,
+            "end": 461
+        },
+        {
+            "start": 462,
+            "end": 469
+        },
+        {
+            "start": 470,
+            "end": 477
+        },
+        {
+            "start": 478,
+            "end": 484
+        },
+        {
+            "start": 485,
+            "end": 488
+        },
+        {
+            "start": 489,
+            "end": 497
+        },
+        {
+            "start": 498,
+            "end": 504
+        },
+        {
+            "start": 505,
+            "end": 513
+        },
+        {
+            "start": 513,
+            "end": 514
+        },
+        {
+            "start": 515,
+            "end": 521
+        },
+        {
+            "start": 522,
+            "end": 528
+        },
+        {
+            "start": 529,
+            "end": 530
+        },
+        {
+            "start": 531,
+            "end": 536
+        },
+        {
+            "start": 537,
+            "end": 546
+        },
+        {
+            "start": 546,
+            "end": 547
+        },
+        {
+            "start": 547,
+            "end": 549
+        },
+        {
+            "start": 549,
+            "end": 550
+        },
+        {
+            "start": 551,
+            "end": 557
+        },
+        {
+            "start": 558,
+            "end": 564
+        },
+        {
+            "start": 565,
+            "end": 567
+        },
+        {
+            "start": 568,
+            "end": 572
+        },
+        {
+            "start": 573,
+            "end": 575
+        },
+        {
+            "start": 576,
+            "end": 577
+        },
+        {
+            "start": 577,
+            "end": 580
+        },
+        {
+            "start": 581,
+            "end": 583
+        },
+        {
+            "start": 584,
+            "end": 587
+        },
+        {
+            "start": 588,
+            "end": 594
+        },
+        {
+            "start": 594,
+            "end": 595
+        },
+        {
+            "start": 596,
+            "end": 602
+        },
+        {
+            "start": 603,
+            "end": 609
+        },
+        {
+            "start": 609,
+            "end": 610
+        },
+        {
+            "start": 610,
+            "end": 612
+        },
+        {
+            "start": 612,
+            "end": 613
+        },
+        {
+            "start": 614,
+            "end": 618
+        },
+        {
+            "start": 619,
+            "end": 625
+        },
+        {
+            "start": 626,
+            "end": 633
+        },
+        {
+            "start": 634,
+            "end": 635
+        },
+        {
+            "start": 635,
+            "end": 638
+        },
+        {
+            "start": 639,
+            "end": 643
+        },
+        {
+            "start": 644,
+            "end": 650
+        },
+        {
+            "start": 650,
+            "end": 651
+        },
+        {
+            "start": 652,
+            "end": 658
+        },
+        {
+            "start": 659,
+            "end": 668
+        },
+        {
+            "start": 669,
+            "end": 670
+        },
+        {
+            "start": 671,
+            "end": 676
+        },
+        {
+            "start": 677,
+            "end": 684
+        },
+        {
+            "start": 684,
+            "end": 685
+        },
+        {
+            "start": 685,
+            "end": 687
+        },
+        {
+            "start": 687,
+            "end": 688
+        },
+        {
+            "start": 689,
+            "end": 695
+        },
+        {
+            "start": 696,
+            "end": 703
+        },
+        {
+            "start": 704,
+            "end": 706
+        },
+        {
+            "start": 707,
+            "end": 709
+        },
+        {
+            "start": 710,
+            "end": 718
+        },
+        {
+            "start": 719,
+            "end": 725
+        },
+        {
+            "start": 726,
+            "end": 736
+        },
+        {
+            "start": 737,
+            "end": 738
+        },
+        {
+            "start": 739,
+            "end": 745
+        },
+        {
+            "start": 746,
+            "end": 753
+        },
+        {
+            "start": 753,
+            "end": 754
+        },
+        {
+            "start": 754,
+            "end": 756
+        },
+        {
+            "start": 756,
+            "end": 757
+        },
+        {
+            "start": 758,
+            "end": 764
+        },
+        {
+            "start": 765,
+            "end": 773
+        },
+        {
+            "start": 774,
+            "end": 782
+        },
+        {
+            "start": 783,
+            "end": 788
+        },
+        {
+            "start": 789,
+            "end": 797
+        }
+    ],
+    "coref": [
+        {
+            "P\u016bce": [
+                [
+                    14
+                ],
+                [
+                    23
+                ]
+            ]
+        },
+        {
+            "twin": [
+                [
+                    56
+                ]
+            ],
+            "It": [
+                [
+                    90
+                ]
+            ]
+        },
+        {
+            "Riva": [
+                [
+                    63
+                ],
+                [
+                    70
+                ]
+            ]
+        },
+        {
+            "Volmane": [
+                [
+                    75
+                ],
+                [
+                    82
+                ]
+            ]
+        },
+        {
+            "\u016adris": [
+                [
+                    87
+                ],
+                [
+                    93
+                ]
+            ]
+        },
+        {
+            "Kivi\u010ds": [
+                [
+                    114
+                ],
+                [
+                    125
+                ]
+            ]
+        },
+        {
+            "B\u0113rzi\u0146\u0161": [
+                [
+                    141
+                ]
+            ],
+            "It": [
+                [
+                    148
+                ]
+            ]
+        },
+        {
+            "Vidri\u0137e": [
+                [
+                    146
+                ],
+                [
+                    154
+                ]
+            ]
+        }
+    ]
+}

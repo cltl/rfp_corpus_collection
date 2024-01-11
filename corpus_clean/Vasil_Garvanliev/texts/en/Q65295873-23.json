@@ -1,1 +1,122 @@
-{"title": "Vasil Garvanliev", "text": "Vasil Garvanliev\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.", "original_url": "https://www.allmusic.com/artist/mn0004066111", "wayback_url": "https://web.archive.org/web/20220523113759/https://www.allmusic.com/artist/mn0004066111", "a_id": "Q65295873-23"}
+{
+    "title": "Vasil Garvanliev",
+    "text": "Vasil Garvanliev\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.",
+    "original_url": "https://www.allmusic.com/artist/mn0004066111",
+    "wayback_url": "https://web.archive.org/web/20220523113759/https://www.allmusic.com/artist/mn0004066111",
+    "a_id": "Q65295873-23",
+    "id_token": [
+        "Vasil",
+        "Garvanliev",
+        "\n",
+        "AllMusic",
+        "relies",
+        "heavily",
+        "on",
+        "JavaScript",
+        ".",
+        "\n",
+        "Please",
+        "enable",
+        "JavaScript",
+        "in",
+        "your",
+        "browser",
+        "to",
+        "use",
+        "the",
+        "site",
+        "fully",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 5
+        },
+        {
+            "start": 6,
+            "end": 16
+        },
+        {
+            "start": 16,
+            "end": 17
+        },
+        {
+            "start": 17,
+            "end": 25
+        },
+        {
+            "start": 26,
+            "end": 32
+        },
+        {
+            "start": 33,
+            "end": 40
+        },
+        {
+            "start": 41,
+            "end": 43
+        },
+        {
+            "start": 44,
+            "end": 54
+        },
+        {
+            "start": 54,
+            "end": 55
+        },
+        {
+            "start": 55,
+            "end": 56
+        },
+        {
+            "start": 56,
+            "end": 62
+        },
+        {
+            "start": 63,
+            "end": 69
+        },
+        {
+            "start": 70,
+            "end": 80
+        },
+        {
+            "start": 81,
+            "end": 83
+        },
+        {
+            "start": 84,
+            "end": 88
+        },
+        {
+            "start": 89,
+            "end": 96
+        },
+        {
+            "start": 97,
+            "end": 99
+        },
+        {
+            "start": 100,
+            "end": 103
+        },
+        {
+            "start": 104,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 112
+        },
+        {
+            "start": 113,
+            "end": 118
+        },
+        {
+            "start": 118,
+            "end": 119
+        }
+    ],
+    "coref": []
+}

@@ -1,1 +1,263 @@
-{"title": "Barbara Pravi (@Babpravi)", "text": "Barbara Pravi (@Babpravi)\nAdd a location to your Tweets\nWhen you tweet with a location, Twitter stores that location. You can switch location on/off before each Tweet and always have the option to delete your location history. Learn more", "original_url": "https://twitter.com/babpravi", "wayback_url": "https://web.archive.org/web/20170309225108/https://twitter.com/Babpravi", "a_id": "Q78138804-60"}
+{
+    "title": "Barbara Pravi (@Babpravi)",
+    "text": "Barbara Pravi (@Babpravi)\nAdd a location to your Tweets\nWhen you tweet with a location, Twitter stores that location. You can switch location on/off before each Tweet and always have the option to delete your location history. Learn more",
+    "original_url": "https://twitter.com/babpravi",
+    "wayback_url": "https://web.archive.org/web/20170309225108/https://twitter.com/Babpravi",
+    "a_id": "Q78138804-60",
+    "id_token": [
+        "Barbara",
+        "Pravi",
+        "(",
+        "@Babpravi",
+        ")",
+        "\n",
+        "Add",
+        "a",
+        "location",
+        "to",
+        "your",
+        "Tweets",
+        "\n",
+        "When",
+        "you",
+        "tweet",
+        "with",
+        "a",
+        "location",
+        ",",
+        "Twitter",
+        "stores",
+        "that",
+        "location",
+        ".",
+        "You",
+        "can",
+        "switch",
+        "location",
+        "on",
+        "/",
+        "off",
+        "before",
+        "each",
+        "Tweet",
+        "and",
+        "always",
+        "have",
+        "the",
+        "option",
+        "to",
+        "delete",
+        "your",
+        "location",
+        "history",
+        ".",
+        "Learn",
+        "more"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 7
+        },
+        {
+            "start": 8,
+            "end": 13
+        },
+        {
+            "start": 14,
+            "end": 15
+        },
+        {
+            "start": 15,
+            "end": 24
+        },
+        {
+            "start": 24,
+            "end": 25
+        },
+        {
+            "start": 25,
+            "end": 26
+        },
+        {
+            "start": 26,
+            "end": 29
+        },
+        {
+            "start": 30,
+            "end": 31
+        },
+        {
+            "start": 32,
+            "end": 40
+        },
+        {
+            "start": 41,
+            "end": 43
+        },
+        {
+            "start": 44,
+            "end": 48
+        },
+        {
+            "start": 49,
+            "end": 55
+        },
+        {
+            "start": 55,
+            "end": 56
+        },
+        {
+            "start": 56,
+            "end": 60
+        },
+        {
+            "start": 61,
+            "end": 64
+        },
+        {
+            "start": 65,
+            "end": 70
+        },
+        {
+            "start": 71,
+            "end": 75
+        },
+        {
+            "start": 76,
+            "end": 77
+        },
+        {
+            "start": 78,
+            "end": 86
+        },
+        {
+            "start": 86,
+            "end": 87
+        },
+        {
+            "start": 88,
+            "end": 95
+        },
+        {
+            "start": 96,
+            "end": 102
+        },
+        {
+            "start": 103,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 116
+        },
+        {
+            "start": 116,
+            "end": 117
+        },
+        {
+            "start": 118,
+            "end": 121
+        },
+        {
+            "start": 122,
+            "end": 125
+        },
+        {
+            "start": 126,
+            "end": 132
+        },
+        {
+            "start": 133,
+            "end": 141
+        },
+        {
+            "start": 142,
+            "end": 144
+        },
+        {
+            "start": 144,
+            "end": 145
+        },
+        {
+            "start": 145,
+            "end": 148
+        },
+        {
+            "start": 149,
+            "end": 155
+        },
+        {
+            "start": 156,
+            "end": 160
+        },
+        {
+            "start": 161,
+            "end": 166
+        },
+        {
+            "start": 167,
+            "end": 170
+        },
+        {
+            "start": 171,
+            "end": 177
+        },
+        {
+            "start": 178,
+            "end": 182
+        },
+        {
+            "start": 183,
+            "end": 186
+        },
+        {
+            "start": 187,
+            "end": 193
+        },
+        {
+            "start": 194,
+            "end": 196
+        },
+        {
+            "start": 197,
+            "end": 203
+        },
+        {
+            "start": 204,
+            "end": 208
+        },
+        {
+            "start": 209,
+            "end": 217
+        },
+        {
+            "start": 218,
+            "end": 225
+        },
+        {
+            "start": 225,
+            "end": 226
+        },
+        {
+            "start": 227,
+            "end": 232
+        },
+        {
+            "start": 233,
+            "end": 237
+        }
+    ],
+    "coref": [
+        {
+            "location": [
+                [
+                    18
+                ],
+                [
+                    23
+                ]
+            ]
+        }
+    ]
+}

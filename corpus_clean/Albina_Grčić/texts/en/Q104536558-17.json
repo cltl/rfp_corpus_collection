@@ -1,0 +1,122 @@
+{
+    "title": "Album Discography",
+    "text": "Album Discography\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.",
+    "original_url": "https://www.allmusic.com/artist/mn0003986306",
+    "wayback_url": "https://web.archive.org/web/20210316145125/https://www.allmusic.com/artist/mn0003986306",
+    "a_id": "Q104536558-17",
+    "id_token": [
+        "Album",
+        "Discography",
+        "\n",
+        "AllMusic",
+        "relies",
+        "heavily",
+        "on",
+        "JavaScript",
+        ".",
+        "\n",
+        "Please",
+        "enable",
+        "JavaScript",
+        "in",
+        "your",
+        "browser",
+        "to",
+        "use",
+        "the",
+        "site",
+        "fully",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 5
+        },
+        {
+            "start": 6,
+            "end": 17
+        },
+        {
+            "start": 17,
+            "end": 18
+        },
+        {
+            "start": 18,
+            "end": 26
+        },
+        {
+            "start": 27,
+            "end": 33
+        },
+        {
+            "start": 34,
+            "end": 41
+        },
+        {
+            "start": 42,
+            "end": 44
+        },
+        {
+            "start": 45,
+            "end": 55
+        },
+        {
+            "start": 55,
+            "end": 56
+        },
+        {
+            "start": 56,
+            "end": 57
+        },
+        {
+            "start": 57,
+            "end": 63
+        },
+        {
+            "start": 64,
+            "end": 70
+        },
+        {
+            "start": 71,
+            "end": 81
+        },
+        {
+            "start": 82,
+            "end": 84
+        },
+        {
+            "start": 85,
+            "end": 89
+        },
+        {
+            "start": 90,
+            "end": 97
+        },
+        {
+            "start": 98,
+            "end": 100
+        },
+        {
+            "start": 101,
+            "end": 104
+        },
+        {
+            "start": 105,
+            "end": 108
+        },
+        {
+            "start": 109,
+            "end": 113
+        },
+        {
+            "start": 114,
+            "end": 119
+        },
+        {
+            "start": 119,
+            "end": 120
+        }
+    ],
+    "coref": []
+}

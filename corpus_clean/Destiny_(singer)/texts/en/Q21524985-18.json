@@ -1,1 +1,2181 @@
-{"title": "DESTINY", "text": "DESTINY\nEmail Address*\nFirst Name\nLast Name\nPhone Number\nCountry Malta Aaland Islands Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua And Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Saint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Cook Islands Costa Rica Cote D'Ivoire Croatia Cuba Curacao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard and Mc Donald Islands Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey (Channel Islands) Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macau Macedonia Madagascar Malawi Malaysia Maldives Mali Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Northern Mariana Islands Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Republic of Kosovo Reunion Romania Russia Rwanda Saint Kitts and Nevis Saint Lucia Saint Martin Saint Vincent and the Grenadines Samoa (Independent) San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka St. Helena St. Pierre and Miquelon Sudan Suriname Svalbard and Jan Mayen Islands Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks & Caicos Islands Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States of America Uruguay USA Minor Outlying Islands Uzbekistan Vanuatu Vatican City State (Holy See) Venezuela Vietnam Virgin Islands (British) Virgin Islands (U.S.) Wallis and Futuna Islands Western Sahara Yemen Zambia Zimbabwe\nContact Permission", "original_url": "http://destiny.mt/", "wayback_url": "https://web.archive.org/web/20210315174605/https://destiny.mt/", "a_id": "Q21524985-18"}
+{
+    "title": "DESTINY",
+    "text": "DESTINY\nEmail Address*\nFirst Name\nLast Name\nPhone Number\nCountry Malta Aaland Islands Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua And Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Saint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Cook Islands Costa Rica Cote D'Ivoire Croatia Cuba Curacao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard and Mc Donald Islands Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey (Channel Islands) Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macau Macedonia Madagascar Malawi Malaysia Maldives Mali Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Northern Mariana Islands Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Republic of Kosovo Reunion Romania Russia Rwanda Saint Kitts and Nevis Saint Lucia Saint Martin Saint Vincent and the Grenadines Samoa (Independent) San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka St. Helena St. Pierre and Miquelon Sudan Suriname Svalbard and Jan Mayen Islands Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks & Caicos Islands Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States of America Uruguay USA Minor Outlying Islands Uzbekistan Vanuatu Vatican City State (Holy See) Venezuela Vietnam Virgin Islands (British) Virgin Islands (U.S.) Wallis and Futuna Islands Western Sahara Yemen Zambia Zimbabwe\nContact Permission",
+    "original_url": "http://destiny.mt/",
+    "wayback_url": "https://web.archive.org/web/20210315174605/https://destiny.mt/",
+    "a_id": "Q21524985-18",
+    "id_token": [
+        "DESTINY",
+        "\n",
+        "Email",
+        "Address",
+        "*",
+        "\n",
+        "First",
+        "Name",
+        "\n",
+        "Last",
+        "Name",
+        "\n",
+        "Phone",
+        "Number",
+        "\n",
+        "Country",
+        "Malta",
+        "Aaland",
+        "Islands",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American",
+        "Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua",
+        "And",
+        "Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia",
+        "Bonaire",
+        ",",
+        "Saint",
+        "Eustatius",
+        "and",
+        "Saba",
+        "Bosnia",
+        "and",
+        "Herzegovina",
+        "Botswana",
+        "Bouvet",
+        "Island",
+        "Brazil",
+        "British",
+        "Indian",
+        "Ocean",
+        "Territory",
+        "Brunei",
+        "Darussalam",
+        "Bulgaria",
+        "Burkina",
+        "Faso",
+        "Burundi",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Cape",
+        "Verde",
+        "Cayman",
+        "Islands",
+        "Central",
+        "African",
+        "Republic",
+        "Chad",
+        "Chile",
+        "China",
+        "Christmas",
+        "Island",
+        "Cocos",
+        "(",
+        "Keeling",
+        ")",
+        "Islands",
+        "Colombia",
+        "Comoros",
+        "Congo",
+        "Cook",
+        "Islands",
+        "Costa",
+        "Rica",
+        "Cote",
+        "D'Ivoire",
+        "Croatia",
+        "Cuba",
+        "Curacao",
+        "Cyprus",
+        "Czech",
+        "Republic",
+        "Democratic",
+        "Republic",
+        "of",
+        "the",
+        "Congo",
+        "Denmark",
+        "Djibouti",
+        "Dominica",
+        "Dominican",
+        "Republic",
+        "Ecuador",
+        "Egypt",
+        "El",
+        "Salvador",
+        "Equatorial",
+        "Guinea",
+        "Eritrea",
+        "Estonia",
+        "Ethiopia",
+        "Falkland",
+        "Islands",
+        "Faroe",
+        "Islands",
+        "Fiji",
+        "Finland",
+        "France",
+        "French",
+        "Guiana",
+        "French",
+        "Polynesia",
+        "French",
+        "Southern",
+        "Territories",
+        "Gabon",
+        "Gambia",
+        "Georgia",
+        "Germany",
+        "Ghana",
+        "Gibraltar",
+        "Greece",
+        "Greenland",
+        "Grenada",
+        "Guadeloupe",
+        "Guam",
+        "Guatemala",
+        "Guernsey",
+        "Guinea",
+        "Guinea",
+        "-",
+        "Bissau",
+        "Guyana",
+        "Haiti",
+        "Heard",
+        "and",
+        "Mc",
+        "Donald",
+        "Islands",
+        "Honduras",
+        "Hong",
+        "Kong",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Ireland",
+        "Isle",
+        "of",
+        "Man",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jersey",
+        "(",
+        "Channel",
+        "Islands",
+        ")",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Kuwait",
+        "Kyrgyzstan",
+        "Lao",
+        "People",
+        "'s",
+        "Democratic",
+        "Republic",
+        "Latvia",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macau",
+        "Macedonia",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Marshall",
+        "Islands",
+        "Martinique",
+        "Mauritania",
+        "Mauritius",
+        "Mayotte",
+        "Mexico",
+        "Micronesia",
+        ",",
+        "Federated",
+        "States",
+        "of",
+        "Moldova",
+        ",",
+        "Republic",
+        "of",
+        "Monaco",
+        "Mongolia",
+        "Montenegro",
+        "Montserrat",
+        "Morocco",
+        "Mozambique",
+        "Myanmar",
+        "Namibia",
+        "Nauru",
+        "Nepal",
+        "Netherlands",
+        "Netherlands",
+        "Antilles",
+        "New",
+        "Caledonia",
+        "New",
+        "Zealand",
+        "Nicaragua",
+        "Niger",
+        "Nigeria",
+        "Niue",
+        "Norfolk",
+        "Island",
+        "North",
+        "Korea",
+        "Northern",
+        "Mariana",
+        "Islands",
+        "Norway",
+        "Oman",
+        "Pakistan",
+        "Palau",
+        "Palestine",
+        "Panama",
+        "Papua",
+        "New",
+        "Guinea",
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Pitcairn",
+        "Poland",
+        "Portugal",
+        "Puerto",
+        "Rico",
+        "Qatar",
+        "Republic",
+        "of",
+        "Kosovo",
+        "Reunion",
+        "Romania",
+        "Russia",
+        "Rwanda",
+        "Saint",
+        "Kitts",
+        "and",
+        "Nevis",
+        "Saint",
+        "Lucia",
+        "Saint",
+        "Martin",
+        "Saint",
+        "Vincent",
+        "and",
+        "the",
+        "Grenadines",
+        "Samoa",
+        "(",
+        "Independent",
+        ")",
+        "San",
+        "Marino",
+        "Sao",
+        "Tome",
+        "and",
+        "Principe",
+        "Saudi",
+        "Arabia",
+        "Senegal",
+        "Serbia",
+        "Seychelles",
+        "Sierra",
+        "Leone",
+        "Singapore",
+        "Sint",
+        "Maarten",
+        "Slovakia",
+        "Slovenia",
+        "Solomon",
+        "Islands",
+        "Somalia",
+        "South",
+        "Africa",
+        "South",
+        "Georgia",
+        "and",
+        "the",
+        "South",
+        "Sandwich",
+        "Islands",
+        "South",
+        "Korea",
+        "South",
+        "Sudan",
+        "Spain",
+        "Sri",
+        "Lanka",
+        "St.",
+        "Helena",
+        "St.",
+        "Pierre",
+        "and",
+        "Miquelon",
+        "Sudan",
+        "Suriname",
+        "Svalbard",
+        "and",
+        "Jan",
+        "Mayen",
+        "Islands",
+        "Swaziland",
+        "Sweden",
+        "Switzerland",
+        "Syria",
+        "Taiwan",
+        "Tajikistan",
+        "Tanzania",
+        "Thailand",
+        "Timor",
+        "-",
+        "Leste",
+        "Togo",
+        "Tokelau",
+        "Tonga",
+        "Trinidad",
+        "and",
+        "Tobago",
+        "Tunisia",
+        "Turkey",
+        "Turkmenistan",
+        "Turks",
+        "&",
+        "Caicos",
+        "Islands",
+        "Turks",
+        "and",
+        "Caicos",
+        "Islands",
+        "Tuvalu",
+        "Uganda",
+        "Ukraine",
+        "United",
+        "Arab",
+        "Emirates",
+        "United",
+        "Kingdom",
+        "United",
+        "States",
+        "of",
+        "America",
+        "Uruguay",
+        "USA",
+        "Minor",
+        "Outlying",
+        "Islands",
+        "Uzbekistan",
+        "Vanuatu",
+        "Vatican",
+        "City",
+        "State",
+        "(",
+        "Holy",
+        "See",
+        ")",
+        "Venezuela",
+        "Vietnam",
+        "Virgin",
+        "Islands",
+        "(",
+        "British",
+        ")",
+        "Virgin",
+        "Islands",
+        "(",
+        "U.S.",
+        ")",
+        "Wallis",
+        "and",
+        "Futuna",
+        "Islands",
+        "Western",
+        "Sahara",
+        "Yemen",
+        "Zambia",
+        "Zimbabwe",
+        "\n",
+        "Contact",
+        "Permission"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 7
+        },
+        {
+            "start": 7,
+            "end": 8
+        },
+        {
+            "start": 8,
+            "end": 13
+        },
+        {
+            "start": 14,
+            "end": 21
+        },
+        {
+            "start": 21,
+            "end": 22
+        },
+        {
+            "start": 22,
+            "end": 23
+        },
+        {
+            "start": 23,
+            "end": 28
+        },
+        {
+            "start": 29,
+            "end": 33
+        },
+        {
+            "start": 33,
+            "end": 34
+        },
+        {
+            "start": 34,
+            "end": 38
+        },
+        {
+            "start": 39,
+            "end": 43
+        },
+        {
+            "start": 43,
+            "end": 44
+        },
+        {
+            "start": 44,
+            "end": 49
+        },
+        {
+            "start": 50,
+            "end": 56
+        },
+        {
+            "start": 56,
+            "end": 57
+        },
+        {
+            "start": 57,
+            "end": 64
+        },
+        {
+            "start": 65,
+            "end": 70
+        },
+        {
+            "start": 71,
+            "end": 77
+        },
+        {
+            "start": 78,
+            "end": 85
+        },
+        {
+            "start": 86,
+            "end": 97
+        },
+        {
+            "start": 98,
+            "end": 105
+        },
+        {
+            "start": 106,
+            "end": 113
+        },
+        {
+            "start": 114,
+            "end": 122
+        },
+        {
+            "start": 123,
+            "end": 128
+        },
+        {
+            "start": 129,
+            "end": 136
+        },
+        {
+            "start": 137,
+            "end": 143
+        },
+        {
+            "start": 144,
+            "end": 152
+        },
+        {
+            "start": 153,
+            "end": 163
+        },
+        {
+            "start": 164,
+            "end": 171
+        },
+        {
+            "start": 172,
+            "end": 175
+        },
+        {
+            "start": 176,
+            "end": 183
+        },
+        {
+            "start": 184,
+            "end": 193
+        },
+        {
+            "start": 194,
+            "end": 201
+        },
+        {
+            "start": 202,
+            "end": 207
+        },
+        {
+            "start": 208,
+            "end": 217
+        },
+        {
+            "start": 218,
+            "end": 225
+        },
+        {
+            "start": 226,
+            "end": 236
+        },
+        {
+            "start": 237,
+            "end": 244
+        },
+        {
+            "start": 245,
+            "end": 252
+        },
+        {
+            "start": 253,
+            "end": 263
+        },
+        {
+            "start": 264,
+            "end": 272
+        },
+        {
+            "start": 273,
+            "end": 280
+        },
+        {
+            "start": 281,
+            "end": 288
+        },
+        {
+            "start": 289,
+            "end": 295
+        },
+        {
+            "start": 296,
+            "end": 301
+        },
+        {
+            "start": 302,
+            "end": 309
+        },
+        {
+            "start": 310,
+            "end": 316
+        },
+        {
+            "start": 317,
+            "end": 324
+        },
+        {
+            "start": 325,
+            "end": 332
+        },
+        {
+            "start": 332,
+            "end": 333
+        },
+        {
+            "start": 334,
+            "end": 339
+        },
+        {
+            "start": 340,
+            "end": 349
+        },
+        {
+            "start": 350,
+            "end": 353
+        },
+        {
+            "start": 354,
+            "end": 358
+        },
+        {
+            "start": 359,
+            "end": 365
+        },
+        {
+            "start": 366,
+            "end": 369
+        },
+        {
+            "start": 370,
+            "end": 381
+        },
+        {
+            "start": 382,
+            "end": 390
+        },
+        {
+            "start": 391,
+            "end": 397
+        },
+        {
+            "start": 398,
+            "end": 404
+        },
+        {
+            "start": 405,
+            "end": 411
+        },
+        {
+            "start": 412,
+            "end": 419
+        },
+        {
+            "start": 420,
+            "end": 426
+        },
+        {
+            "start": 427,
+            "end": 432
+        },
+        {
+            "start": 433,
+            "end": 442
+        },
+        {
+            "start": 443,
+            "end": 449
+        },
+        {
+            "start": 450,
+            "end": 460
+        },
+        {
+            "start": 461,
+            "end": 469
+        },
+        {
+            "start": 470,
+            "end": 477
+        },
+        {
+            "start": 478,
+            "end": 482
+        },
+        {
+            "start": 483,
+            "end": 490
+        },
+        {
+            "start": 491,
+            "end": 499
+        },
+        {
+            "start": 500,
+            "end": 508
+        },
+        {
+            "start": 509,
+            "end": 515
+        },
+        {
+            "start": 516,
+            "end": 520
+        },
+        {
+            "start": 521,
+            "end": 526
+        },
+        {
+            "start": 527,
+            "end": 533
+        },
+        {
+            "start": 534,
+            "end": 541
+        },
+        {
+            "start": 542,
+            "end": 549
+        },
+        {
+            "start": 550,
+            "end": 557
+        },
+        {
+            "start": 558,
+            "end": 566
+        },
+        {
+            "start": 567,
+            "end": 571
+        },
+        {
+            "start": 572,
+            "end": 577
+        },
+        {
+            "start": 578,
+            "end": 583
+        },
+        {
+            "start": 584,
+            "end": 593
+        },
+        {
+            "start": 594,
+            "end": 600
+        },
+        {
+            "start": 601,
+            "end": 606
+        },
+        {
+            "start": 607,
+            "end": 608
+        },
+        {
+            "start": 608,
+            "end": 615
+        },
+        {
+            "start": 615,
+            "end": 616
+        },
+        {
+            "start": 617,
+            "end": 624
+        },
+        {
+            "start": 625,
+            "end": 633
+        },
+        {
+            "start": 634,
+            "end": 641
+        },
+        {
+            "start": 642,
+            "end": 647
+        },
+        {
+            "start": 648,
+            "end": 652
+        },
+        {
+            "start": 653,
+            "end": 660
+        },
+        {
+            "start": 661,
+            "end": 666
+        },
+        {
+            "start": 667,
+            "end": 671
+        },
+        {
+            "start": 672,
+            "end": 676
+        },
+        {
+            "start": 677,
+            "end": 685
+        },
+        {
+            "start": 686,
+            "end": 693
+        },
+        {
+            "start": 694,
+            "end": 698
+        },
+        {
+            "start": 699,
+            "end": 706
+        },
+        {
+            "start": 707,
+            "end": 713
+        },
+        {
+            "start": 714,
+            "end": 719
+        },
+        {
+            "start": 720,
+            "end": 728
+        },
+        {
+            "start": 729,
+            "end": 739
+        },
+        {
+            "start": 740,
+            "end": 748
+        },
+        {
+            "start": 749,
+            "end": 751
+        },
+        {
+            "start": 752,
+            "end": 755
+        },
+        {
+            "start": 756,
+            "end": 761
+        },
+        {
+            "start": 762,
+            "end": 769
+        },
+        {
+            "start": 770,
+            "end": 778
+        },
+        {
+            "start": 779,
+            "end": 787
+        },
+        {
+            "start": 788,
+            "end": 797
+        },
+        {
+            "start": 798,
+            "end": 806
+        },
+        {
+            "start": 807,
+            "end": 814
+        },
+        {
+            "start": 815,
+            "end": 820
+        },
+        {
+            "start": 821,
+            "end": 823
+        },
+        {
+            "start": 824,
+            "end": 832
+        },
+        {
+            "start": 833,
+            "end": 843
+        },
+        {
+            "start": 844,
+            "end": 850
+        },
+        {
+            "start": 851,
+            "end": 858
+        },
+        {
+            "start": 859,
+            "end": 866
+        },
+        {
+            "start": 867,
+            "end": 875
+        },
+        {
+            "start": 876,
+            "end": 884
+        },
+        {
+            "start": 885,
+            "end": 892
+        },
+        {
+            "start": 893,
+            "end": 898
+        },
+        {
+            "start": 899,
+            "end": 906
+        },
+        {
+            "start": 907,
+            "end": 911
+        },
+        {
+            "start": 912,
+            "end": 919
+        },
+        {
+            "start": 920,
+            "end": 926
+        },
+        {
+            "start": 927,
+            "end": 933
+        },
+        {
+            "start": 934,
+            "end": 940
+        },
+        {
+            "start": 941,
+            "end": 947
+        },
+        {
+            "start": 948,
+            "end": 957
+        },
+        {
+            "start": 958,
+            "end": 964
+        },
+        {
+            "start": 965,
+            "end": 973
+        },
+        {
+            "start": 974,
+            "end": 985
+        },
+        {
+            "start": 986,
+            "end": 991
+        },
+        {
+            "start": 992,
+            "end": 998
+        },
+        {
+            "start": 999,
+            "end": 1006
+        },
+        {
+            "start": 1007,
+            "end": 1014
+        },
+        {
+            "start": 1015,
+            "end": 1020
+        },
+        {
+            "start": 1021,
+            "end": 1030
+        },
+        {
+            "start": 1031,
+            "end": 1037
+        },
+        {
+            "start": 1038,
+            "end": 1047
+        },
+        {
+            "start": 1048,
+            "end": 1055
+        },
+        {
+            "start": 1056,
+            "end": 1066
+        },
+        {
+            "start": 1067,
+            "end": 1071
+        },
+        {
+            "start": 1072,
+            "end": 1081
+        },
+        {
+            "start": 1082,
+            "end": 1090
+        },
+        {
+            "start": 1091,
+            "end": 1097
+        },
+        {
+            "start": 1098,
+            "end": 1104
+        },
+        {
+            "start": 1104,
+            "end": 1105
+        },
+        {
+            "start": 1105,
+            "end": 1111
+        },
+        {
+            "start": 1112,
+            "end": 1118
+        },
+        {
+            "start": 1119,
+            "end": 1124
+        },
+        {
+            "start": 1125,
+            "end": 1130
+        },
+        {
+            "start": 1131,
+            "end": 1134
+        },
+        {
+            "start": 1135,
+            "end": 1137
+        },
+        {
+            "start": 1138,
+            "end": 1144
+        },
+        {
+            "start": 1145,
+            "end": 1152
+        },
+        {
+            "start": 1153,
+            "end": 1161
+        },
+        {
+            "start": 1162,
+            "end": 1166
+        },
+        {
+            "start": 1167,
+            "end": 1171
+        },
+        {
+            "start": 1172,
+            "end": 1179
+        },
+        {
+            "start": 1180,
+            "end": 1187
+        },
+        {
+            "start": 1188,
+            "end": 1193
+        },
+        {
+            "start": 1194,
+            "end": 1203
+        },
+        {
+            "start": 1204,
+            "end": 1208
+        },
+        {
+            "start": 1209,
+            "end": 1213
+        },
+        {
+            "start": 1214,
+            "end": 1221
+        },
+        {
+            "start": 1222,
+            "end": 1226
+        },
+        {
+            "start": 1227,
+            "end": 1229
+        },
+        {
+            "start": 1230,
+            "end": 1233
+        },
+        {
+            "start": 1234,
+            "end": 1240
+        },
+        {
+            "start": 1241,
+            "end": 1246
+        },
+        {
+            "start": 1247,
+            "end": 1254
+        },
+        {
+            "start": 1255,
+            "end": 1260
+        },
+        {
+            "start": 1261,
+            "end": 1267
+        },
+        {
+            "start": 1268,
+            "end": 1269
+        },
+        {
+            "start": 1269,
+            "end": 1276
+        },
+        {
+            "start": 1277,
+            "end": 1284
+        },
+        {
+            "start": 1284,
+            "end": 1285
+        },
+        {
+            "start": 1286,
+            "end": 1292
+        },
+        {
+            "start": 1293,
+            "end": 1303
+        },
+        {
+            "start": 1304,
+            "end": 1309
+        },
+        {
+            "start": 1310,
+            "end": 1318
+        },
+        {
+            "start": 1319,
+            "end": 1325
+        },
+        {
+            "start": 1326,
+            "end": 1336
+        },
+        {
+            "start": 1337,
+            "end": 1340
+        },
+        {
+            "start": 1341,
+            "end": 1347
+        },
+        {
+            "start": 1347,
+            "end": 1349
+        },
+        {
+            "start": 1350,
+            "end": 1360
+        },
+        {
+            "start": 1361,
+            "end": 1369
+        },
+        {
+            "start": 1370,
+            "end": 1376
+        },
+        {
+            "start": 1377,
+            "end": 1384
+        },
+        {
+            "start": 1385,
+            "end": 1392
+        },
+        {
+            "start": 1393,
+            "end": 1400
+        },
+        {
+            "start": 1401,
+            "end": 1406
+        },
+        {
+            "start": 1407,
+            "end": 1420
+        },
+        {
+            "start": 1421,
+            "end": 1430
+        },
+        {
+            "start": 1431,
+            "end": 1441
+        },
+        {
+            "start": 1442,
+            "end": 1447
+        },
+        {
+            "start": 1448,
+            "end": 1457
+        },
+        {
+            "start": 1458,
+            "end": 1468
+        },
+        {
+            "start": 1469,
+            "end": 1475
+        },
+        {
+            "start": 1476,
+            "end": 1484
+        },
+        {
+            "start": 1485,
+            "end": 1493
+        },
+        {
+            "start": 1494,
+            "end": 1498
+        },
+        {
+            "start": 1499,
+            "end": 1507
+        },
+        {
+            "start": 1508,
+            "end": 1515
+        },
+        {
+            "start": 1516,
+            "end": 1526
+        },
+        {
+            "start": 1527,
+            "end": 1537
+        },
+        {
+            "start": 1538,
+            "end": 1547
+        },
+        {
+            "start": 1548,
+            "end": 1555
+        },
+        {
+            "start": 1556,
+            "end": 1562
+        },
+        {
+            "start": 1563,
+            "end": 1573
+        },
+        {
+            "start": 1573,
+            "end": 1574
+        },
+        {
+            "start": 1575,
+            "end": 1584
+        },
+        {
+            "start": 1585,
+            "end": 1591
+        },
+        {
+            "start": 1592,
+            "end": 1594
+        },
+        {
+            "start": 1595,
+            "end": 1602
+        },
+        {
+            "start": 1602,
+            "end": 1603
+        },
+        {
+            "start": 1604,
+            "end": 1612
+        },
+        {
+            "start": 1613,
+            "end": 1615
+        },
+        {
+            "start": 1616,
+            "end": 1622
+        },
+        {
+            "start": 1623,
+            "end": 1631
+        },
+        {
+            "start": 1632,
+            "end": 1642
+        },
+        {
+            "start": 1643,
+            "end": 1653
+        },
+        {
+            "start": 1654,
+            "end": 1661
+        },
+        {
+            "start": 1662,
+            "end": 1672
+        },
+        {
+            "start": 1673,
+            "end": 1680
+        },
+        {
+            "start": 1681,
+            "end": 1688
+        },
+        {
+            "start": 1689,
+            "end": 1694
+        },
+        {
+            "start": 1695,
+            "end": 1700
+        },
+        {
+            "start": 1701,
+            "end": 1712
+        },
+        {
+            "start": 1713,
+            "end": 1724
+        },
+        {
+            "start": 1725,
+            "end": 1733
+        },
+        {
+            "start": 1734,
+            "end": 1737
+        },
+        {
+            "start": 1738,
+            "end": 1747
+        },
+        {
+            "start": 1748,
+            "end": 1751
+        },
+        {
+            "start": 1752,
+            "end": 1759
+        },
+        {
+            "start": 1760,
+            "end": 1769
+        },
+        {
+            "start": 1770,
+            "end": 1775
+        },
+        {
+            "start": 1776,
+            "end": 1783
+        },
+        {
+            "start": 1784,
+            "end": 1788
+        },
+        {
+            "start": 1789,
+            "end": 1796
+        },
+        {
+            "start": 1797,
+            "end": 1803
+        },
+        {
+            "start": 1804,
+            "end": 1809
+        },
+        {
+            "start": 1810,
+            "end": 1815
+        },
+        {
+            "start": 1816,
+            "end": 1824
+        },
+        {
+            "start": 1825,
+            "end": 1832
+        },
+        {
+            "start": 1833,
+            "end": 1840
+        },
+        {
+            "start": 1841,
+            "end": 1847
+        },
+        {
+            "start": 1848,
+            "end": 1852
+        },
+        {
+            "start": 1853,
+            "end": 1861
+        },
+        {
+            "start": 1862,
+            "end": 1867
+        },
+        {
+            "start": 1868,
+            "end": 1877
+        },
+        {
+            "start": 1878,
+            "end": 1884
+        },
+        {
+            "start": 1885,
+            "end": 1890
+        },
+        {
+            "start": 1891,
+            "end": 1894
+        },
+        {
+            "start": 1895,
+            "end": 1901
+        },
+        {
+            "start": 1902,
+            "end": 1910
+        },
+        {
+            "start": 1911,
+            "end": 1915
+        },
+        {
+            "start": 1916,
+            "end": 1927
+        },
+        {
+            "start": 1928,
+            "end": 1936
+        },
+        {
+            "start": 1937,
+            "end": 1943
+        },
+        {
+            "start": 1944,
+            "end": 1952
+        },
+        {
+            "start": 1953,
+            "end": 1959
+        },
+        {
+            "start": 1960,
+            "end": 1964
+        },
+        {
+            "start": 1965,
+            "end": 1970
+        },
+        {
+            "start": 1971,
+            "end": 1979
+        },
+        {
+            "start": 1980,
+            "end": 1982
+        },
+        {
+            "start": 1983,
+            "end": 1989
+        },
+        {
+            "start": 1990,
+            "end": 1997
+        },
+        {
+            "start": 1998,
+            "end": 2005
+        },
+        {
+            "start": 2006,
+            "end": 2012
+        },
+        {
+            "start": 2013,
+            "end": 2019
+        },
+        {
+            "start": 2020,
+            "end": 2025
+        },
+        {
+            "start": 2026,
+            "end": 2031
+        },
+        {
+            "start": 2032,
+            "end": 2035
+        },
+        {
+            "start": 2036,
+            "end": 2041
+        },
+        {
+            "start": 2042,
+            "end": 2047
+        },
+        {
+            "start": 2048,
+            "end": 2053
+        },
+        {
+            "start": 2054,
+            "end": 2059
+        },
+        {
+            "start": 2060,
+            "end": 2066
+        },
+        {
+            "start": 2067,
+            "end": 2072
+        },
+        {
+            "start": 2073,
+            "end": 2080
+        },
+        {
+            "start": 2081,
+            "end": 2084
+        },
+        {
+            "start": 2085,
+            "end": 2088
+        },
+        {
+            "start": 2089,
+            "end": 2099
+        },
+        {
+            "start": 2100,
+            "end": 2105
+        },
+        {
+            "start": 2106,
+            "end": 2107
+        },
+        {
+            "start": 2107,
+            "end": 2118
+        },
+        {
+            "start": 2118,
+            "end": 2119
+        },
+        {
+            "start": 2120,
+            "end": 2123
+        },
+        {
+            "start": 2124,
+            "end": 2130
+        },
+        {
+            "start": 2131,
+            "end": 2134
+        },
+        {
+            "start": 2135,
+            "end": 2139
+        },
+        {
+            "start": 2140,
+            "end": 2143
+        },
+        {
+            "start": 2144,
+            "end": 2152
+        },
+        {
+            "start": 2153,
+            "end": 2158
+        },
+        {
+            "start": 2159,
+            "end": 2165
+        },
+        {
+            "start": 2166,
+            "end": 2173
+        },
+        {
+            "start": 2174,
+            "end": 2180
+        },
+        {
+            "start": 2181,
+            "end": 2191
+        },
+        {
+            "start": 2192,
+            "end": 2198
+        },
+        {
+            "start": 2199,
+            "end": 2204
+        },
+        {
+            "start": 2205,
+            "end": 2214
+        },
+        {
+            "start": 2215,
+            "end": 2219
+        },
+        {
+            "start": 2220,
+            "end": 2227
+        },
+        {
+            "start": 2228,
+            "end": 2236
+        },
+        {
+            "start": 2237,
+            "end": 2245
+        },
+        {
+            "start": 2246,
+            "end": 2253
+        },
+        {
+            "start": 2254,
+            "end": 2261
+        },
+        {
+            "start": 2262,
+            "end": 2269
+        },
+        {
+            "start": 2270,
+            "end": 2275
+        },
+        {
+            "start": 2276,
+            "end": 2282
+        },
+        {
+            "start": 2283,
+            "end": 2288
+        },
+        {
+            "start": 2289,
+            "end": 2296
+        },
+        {
+            "start": 2297,
+            "end": 2300
+        },
+        {
+            "start": 2301,
+            "end": 2304
+        },
+        {
+            "start": 2305,
+            "end": 2310
+        },
+        {
+            "start": 2311,
+            "end": 2319
+        },
+        {
+            "start": 2320,
+            "end": 2327
+        },
+        {
+            "start": 2328,
+            "end": 2333
+        },
+        {
+            "start": 2334,
+            "end": 2339
+        },
+        {
+            "start": 2340,
+            "end": 2345
+        },
+        {
+            "start": 2346,
+            "end": 2351
+        },
+        {
+            "start": 2352,
+            "end": 2357
+        },
+        {
+            "start": 2358,
+            "end": 2361
+        },
+        {
+            "start": 2362,
+            "end": 2367
+        },
+        {
+            "start": 2368,
+            "end": 2371
+        },
+        {
+            "start": 2372,
+            "end": 2378
+        },
+        {
+            "start": 2379,
+            "end": 2382
+        },
+        {
+            "start": 2383,
+            "end": 2389
+        },
+        {
+            "start": 2390,
+            "end": 2393
+        },
+        {
+            "start": 2394,
+            "end": 2402
+        },
+        {
+            "start": 2403,
+            "end": 2408
+        },
+        {
+            "start": 2409,
+            "end": 2417
+        },
+        {
+            "start": 2418,
+            "end": 2426
+        },
+        {
+            "start": 2427,
+            "end": 2430
+        },
+        {
+            "start": 2431,
+            "end": 2434
+        },
+        {
+            "start": 2435,
+            "end": 2440
+        },
+        {
+            "start": 2441,
+            "end": 2448
+        },
+        {
+            "start": 2449,
+            "end": 2458
+        },
+        {
+            "start": 2459,
+            "end": 2465
+        },
+        {
+            "start": 2466,
+            "end": 2477
+        },
+        {
+            "start": 2478,
+            "end": 2483
+        },
+        {
+            "start": 2484,
+            "end": 2490
+        },
+        {
+            "start": 2491,
+            "end": 2501
+        },
+        {
+            "start": 2502,
+            "end": 2510
+        },
+        {
+            "start": 2511,
+            "end": 2519
+        },
+        {
+            "start": 2520,
+            "end": 2525
+        },
+        {
+            "start": 2525,
+            "end": 2526
+        },
+        {
+            "start": 2526,
+            "end": 2531
+        },
+        {
+            "start": 2532,
+            "end": 2536
+        },
+        {
+            "start": 2537,
+            "end": 2544
+        },
+        {
+            "start": 2545,
+            "end": 2550
+        },
+        {
+            "start": 2551,
+            "end": 2559
+        },
+        {
+            "start": 2560,
+            "end": 2563
+        },
+        {
+            "start": 2564,
+            "end": 2570
+        },
+        {
+            "start": 2571,
+            "end": 2578
+        },
+        {
+            "start": 2579,
+            "end": 2585
+        },
+        {
+            "start": 2586,
+            "end": 2598
+        },
+        {
+            "start": 2599,
+            "end": 2604
+        },
+        {
+            "start": 2605,
+            "end": 2606
+        },
+        {
+            "start": 2607,
+            "end": 2613
+        },
+        {
+            "start": 2614,
+            "end": 2621
+        },
+        {
+            "start": 2622,
+            "end": 2627
+        },
+        {
+            "start": 2628,
+            "end": 2631
+        },
+        {
+            "start": 2632,
+            "end": 2638
+        },
+        {
+            "start": 2639,
+            "end": 2646
+        },
+        {
+            "start": 2647,
+            "end": 2653
+        },
+        {
+            "start": 2654,
+            "end": 2660
+        },
+        {
+            "start": 2661,
+            "end": 2668
+        },
+        {
+            "start": 2669,
+            "end": 2675
+        },
+        {
+            "start": 2676,
+            "end": 2680
+        },
+        {
+            "start": 2681,
+            "end": 2689
+        },
+        {
+            "start": 2690,
+            "end": 2696
+        },
+        {
+            "start": 2697,
+            "end": 2704
+        },
+        {
+            "start": 2705,
+            "end": 2711
+        },
+        {
+            "start": 2712,
+            "end": 2718
+        },
+        {
+            "start": 2719,
+            "end": 2721
+        },
+        {
+            "start": 2722,
+            "end": 2729
+        },
+        {
+            "start": 2730,
+            "end": 2737
+        },
+        {
+            "start": 2738,
+            "end": 2741
+        },
+        {
+            "start": 2742,
+            "end": 2747
+        },
+        {
+            "start": 2748,
+            "end": 2756
+        },
+        {
+            "start": 2757,
+            "end": 2764
+        },
+        {
+            "start": 2765,
+            "end": 2775
+        },
+        {
+            "start": 2776,
+            "end": 2783
+        },
+        {
+            "start": 2784,
+            "end": 2791
+        },
+        {
+            "start": 2792,
+            "end": 2796
+        },
+        {
+            "start": 2797,
+            "end": 2802
+        },
+        {
+            "start": 2803,
+            "end": 2804
+        },
+        {
+            "start": 2804,
+            "end": 2808
+        },
+        {
+            "start": 2809,
+            "end": 2812
+        },
+        {
+            "start": 2812,
+            "end": 2813
+        },
+        {
+            "start": 2814,
+            "end": 2823
+        },
+        {
+            "start": 2824,
+            "end": 2831
+        },
+        {
+            "start": 2832,
+            "end": 2838
+        },
+        {
+            "start": 2839,
+            "end": 2846
+        },
+        {
+            "start": 2847,
+            "end": 2848
+        },
+        {
+            "start": 2848,
+            "end": 2855
+        },
+        {
+            "start": 2855,
+            "end": 2856
+        },
+        {
+            "start": 2857,
+            "end": 2863
+        },
+        {
+            "start": 2864,
+            "end": 2871
+        },
+        {
+            "start": 2872,
+            "end": 2873
+        },
+        {
+            "start": 2873,
+            "end": 2877
+        },
+        {
+            "start": 2877,
+            "end": 2878
+        },
+        {
+            "start": 2879,
+            "end": 2885
+        },
+        {
+            "start": 2886,
+            "end": 2889
+        },
+        {
+            "start": 2890,
+            "end": 2896
+        },
+        {
+            "start": 2897,
+            "end": 2904
+        },
+        {
+            "start": 2905,
+            "end": 2912
+        },
+        {
+            "start": 2913,
+            "end": 2919
+        },
+        {
+            "start": 2920,
+            "end": 2925
+        },
+        {
+            "start": 2926,
+            "end": 2932
+        },
+        {
+            "start": 2933,
+            "end": 2941
+        },
+        {
+            "start": 2941,
+            "end": 2942
+        },
+        {
+            "start": 2942,
+            "end": 2949
+        },
+        {
+            "start": 2950,
+            "end": 2960
+        }
+    ],
+    "coref": [
+        {
+            "Islands": [
+                [
+                    77
+                ],
+                [
+                    90
+                ]
+            ]
+        },
+        {
+            "Congo": [
+                [
+                    93
+                ],
+                [
+                    110
+                ]
+            ]
+        },
+        {
+            "Republic": [
+                [
+                    107
+                ],
+                [
+                    225
+                ],
+                [
+                    273
+                ]
+            ]
+        },
+        {
+            "Caicos": [
+                [
+                    369
+                ],
+                [
+                    373
+                ]
+            ]
+        }
+    ]
+}

@@ -1,1 +1,3209 @@
-{"title": "Singel 2023 uke 14", "text": "Singel 2023 uke 14\n1 2 1 FLOWERS Miley Cyrus COLUMBIA/SONY MUSIC ENTERTAINMENT 12\n2 3 1 FLODEN Hver gang vi m\u00f8tesEmma Steinbakken COLUMBIA/SONY MUSIC ENTERTAINMENT 15\n3 1 1 KLIKK UNDERGRUNN UG RECORDS 4\n4 4 1 DELILAH EMMA STEINBAKKEN,HVER GANG VI M\u00d8TES COLUMBIA/SONY MUSIC ENTERTAINMENT 8\n5 0 5 1 BroilerHjorterud All\u00e9 UNIVERSAL MUSIC GROUP 1\n6 6 6 G63 C.Gambino GG MUSIC/AMUSEIO AB 3\n7 5 5 TATTOO Loreen UNIVERSAL MUSIC GROUP 5\n8 8 1 QUEEN OF KINGS Alessandra UNIVERSAL MUSIC GROUP 11\n9 9 7 CAN'T TAME HER Zara Larsson SOMMER HOUSE EPIC/SONY MUSIC ENTERTAINMENT 10\n10 7 7 WONDERLAND Blackie WARNER MUSIC GROUP 2\n11 0 11 FAKK MEG OPP TIXKris Winther UNIVERSAL MUSIC GROUP 1\n12 0 12 HELG StavangerkamerateneRingnes-Ronny MAJOR/UNIVERSAL MUSIC GROUP 1\n13 0 13 GAMLEVEIEN SputnikStaysmanHagle UNIVERSAL MUSIC GROUP 1\n14 12 4 EN SHOT Ballinciaga VIRGIN MUSIC LABEL AND ARTIST SERVICES/UNIVERSAL MUSIC GROUP 9\n15 10 1 I'M GOOD (BLUE) DAVID GUETTA, BEBE REXHA PARLOPHONE UK/WARNER MUSIC GROUP 32\n16 0 16 SAY SAY SAY (FEAT. PAUL MCCARTNEY & MICHAEL JACKSON) KygoPaul McCartneyMichael Jackson KYGO RCA RECORDS/SONY MUSIC ENTERTAINMENT 1\n17 14 2 ALT DU VIL HA Maria MenaHver gang vi m\u00f8tesIsah SDKT ENTERTAINMENT AS/SONY MUSIC ENTERTAINMENT 14\n18 11 11 EYES CLOSED Ed Sheeran ATLANTIC RECORDS UK/WARNER MUSIC GROUP 2\n19 15 5 KILL BILL SZA TOP DAWG ENTERTAINMENT/RCA RECORDS/SONY MUSIC ENTERTAINMENT 16\n20 19 10 ANOTHER LOVE Tom Odell COLUMBIA RECORDS/SONY MUSIC ENTERTAINMENT 48\n21 16 16 PEOPLE Libianca LIBIANCA ENT 2022/PK INTERACTIVE, INC. 3\n22 29 1 DANS P\u00c5 BORDET BallinciagaDavid Mokel VIRGIN/UNIVERSAL MUSIC GROUP 58\n23 22 2 THE BALLET GIRL Aden Foyer ADEN FOYER/TUNECORE, INC 22\n24 28 10 BEST P\u00c5 FEST Carina Dahl TYLDEN/UNIVERSAL MUSIC GROUP 6\n25 13 13 MVH SYNNE VO WARNER MUSIC GROUP 5\n26 18 16 CEILINGS Lizzy McAlpine HARBOUR ARTISTS & MUSIC/AWAL 6\n27 25 4 ESCAPISM. (FEAT. 070 SHAKE) RAYE070 Shake HUMAN RE SOURCES/THE ORCHARD 19\n28 40 28 F.H.D.S! Rambow JUST IN TIME ENT./THE ORCHARD ENTERPRISES INC. 2\n29 33 29 CALM DOWN Rema MAVIN RECORDS / JONZING WORLD/UNIVERSAL MUSIC GROUP 4\n30 21 5 MYSTERIET DEG Hver gang vi m\u00f8tesEmma SteinbakkenIsah SDKT ENTERTAINMENT AS/SONY MUSIC ENTERTAINMENT 7\n31 27 7 CREEPIN' THE WEEKND21 SavageMetro Boomin REPUBLIC RECORDS/UNIVERSAL MUSIC GROUP 18\n32 36 3 ITALIA UNDERGRUNN UG RECORDS/UNIVERSAL MUSIC GROUP 35\n33 39 2 AS IT WAS Harry Styles COLUMBIA / SONY MUSIC ENTERTAINMENT/SONY MUSIC ENTERTAINMENT 46\n34 55 34 V\u00c5RRULL Halva Priset ALL IN/GG MUSIC/SONY MUSIC ENTERTAINMENT 1\n35 37 27 MIRACLE Ellie GouldingCalvin Harris COLUMBIA/SONY MUSIC ENTERTAINMENT 4\n36 0 36 LAKEN Aibalille Caesar UNIVERSAL MUSIC GROUP 1\n37 32 10 BOY'S A LIAR PT. 2 PinkPantheressIce Spice WARNER MUSIC GROUP 8\n38 45 6 DET ENESTE JEG VIL ER \u00c5 HA DET FETT BroilerPandaPanda UNIVERSAL MUSIC GROUP (SKY AGENCY AS)/UNIVERSAL MUSIC GROUP 12\n39 43 18 LAY LOW Ti\u00ebsto MUSICAL FREEDOM/WARNER MUSIC GROUP 12", "original_url": "https://topplista.no/charts/singles/2023-w14/", "wayback_url": "https://web.archive.org/web/20230407134843/https://topplista.no/charts/singles/2023-w14/", "a_id": "Q30323936-98"}
+{
+    "title": "Singel 2023 uke 14",
+    "text": "Singel 2023 uke 14\n1 2 1 FLOWERS Miley Cyrus COLUMBIA/SONY MUSIC ENTERTAINMENT 12\n2 3 1 FLODEN Hver gang vi m\u00f8tesEmma Steinbakken COLUMBIA/SONY MUSIC ENTERTAINMENT 15\n3 1 1 KLIKK UNDERGRUNN UG RECORDS 4\n4 4 1 DELILAH EMMA STEINBAKKEN,HVER GANG VI M\u00d8TES COLUMBIA/SONY MUSIC ENTERTAINMENT 8\n5 0 5 1 BroilerHjorterud All\u00e9 UNIVERSAL MUSIC GROUP 1\n6 6 6 G63 C.Gambino GG MUSIC/AMUSEIO AB 3\n7 5 5 TATTOO Loreen UNIVERSAL MUSIC GROUP 5\n8 8 1 QUEEN OF KINGS Alessandra UNIVERSAL MUSIC GROUP 11\n9 9 7 CAN'T TAME HER Zara Larsson SOMMER HOUSE EPIC/SONY MUSIC ENTERTAINMENT 10\n10 7 7 WONDERLAND Blackie WARNER MUSIC GROUP 2\n11 0 11 FAKK MEG OPP TIXKris Winther UNIVERSAL MUSIC GROUP 1\n12 0 12 HELG StavangerkamerateneRingnes-Ronny MAJOR/UNIVERSAL MUSIC GROUP 1\n13 0 13 GAMLEVEIEN SputnikStaysmanHagle UNIVERSAL MUSIC GROUP 1\n14 12 4 EN SHOT Ballinciaga VIRGIN MUSIC LABEL AND ARTIST SERVICES/UNIVERSAL MUSIC GROUP 9\n15 10 1 I'M GOOD (BLUE) DAVID GUETTA, BEBE REXHA PARLOPHONE UK/WARNER MUSIC GROUP 32\n16 0 16 SAY SAY SAY (FEAT. PAUL MCCARTNEY & MICHAEL JACKSON) KygoPaul McCartneyMichael Jackson KYGO RCA RECORDS/SONY MUSIC ENTERTAINMENT 1\n17 14 2 ALT DU VIL HA Maria MenaHver gang vi m\u00f8tesIsah SDKT ENTERTAINMENT AS/SONY MUSIC ENTERTAINMENT 14\n18 11 11 EYES CLOSED Ed Sheeran ATLANTIC RECORDS UK/WARNER MUSIC GROUP 2\n19 15 5 KILL BILL SZA TOP DAWG ENTERTAINMENT/RCA RECORDS/SONY MUSIC ENTERTAINMENT 16\n20 19 10 ANOTHER LOVE Tom Odell COLUMBIA RECORDS/SONY MUSIC ENTERTAINMENT 48\n21 16 16 PEOPLE Libianca LIBIANCA ENT 2022/PK INTERACTIVE, INC. 3\n22 29 1 DANS P\u00c5 BORDET BallinciagaDavid Mokel VIRGIN/UNIVERSAL MUSIC GROUP 58\n23 22 2 THE BALLET GIRL Aden Foyer ADEN FOYER/TUNECORE, INC 22\n24 28 10 BEST P\u00c5 FEST Carina Dahl TYLDEN/UNIVERSAL MUSIC GROUP 6\n25 13 13 MVH SYNNE VO WARNER MUSIC GROUP 5\n26 18 16 CEILINGS Lizzy McAlpine HARBOUR ARTISTS & MUSIC/AWAL 6\n27 25 4 ESCAPISM. (FEAT. 070 SHAKE) RAYE070 Shake HUMAN RE SOURCES/THE ORCHARD 19\n28 40 28 F.H.D.S! Rambow JUST IN TIME ENT./THE ORCHARD ENTERPRISES INC. 2\n29 33 29 CALM DOWN Rema MAVIN RECORDS / JONZING WORLD/UNIVERSAL MUSIC GROUP 4\n30 21 5 MYSTERIET DEG Hver gang vi m\u00f8tesEmma SteinbakkenIsah SDKT ENTERTAINMENT AS/SONY MUSIC ENTERTAINMENT 7\n31 27 7 CREEPIN' THE WEEKND21 SavageMetro Boomin REPUBLIC RECORDS/UNIVERSAL MUSIC GROUP 18\n32 36 3 ITALIA UNDERGRUNN UG RECORDS/UNIVERSAL MUSIC GROUP 35\n33 39 2 AS IT WAS Harry Styles COLUMBIA / SONY MUSIC ENTERTAINMENT/SONY MUSIC ENTERTAINMENT 46\n34 55 34 V\u00c5RRULL Halva Priset ALL IN/GG MUSIC/SONY MUSIC ENTERTAINMENT 1\n35 37 27 MIRACLE Ellie GouldingCalvin Harris COLUMBIA/SONY MUSIC ENTERTAINMENT 4\n36 0 36 LAKEN Aibalille Caesar UNIVERSAL MUSIC GROUP 1\n37 32 10 BOY'S A LIAR PT. 2 PinkPantheressIce Spice WARNER MUSIC GROUP 8\n38 45 6 DET ENESTE JEG VIL ER \u00c5 HA DET FETT BroilerPandaPanda UNIVERSAL MUSIC GROUP (SKY AGENCY AS)/UNIVERSAL MUSIC GROUP 12\n39 43 18 LAY LOW Ti\u00ebsto MUSICAL FREEDOM/WARNER MUSIC GROUP 12",
+    "original_url": "https://topplista.no/charts/singles/2023-w14/",
+    "wayback_url": "https://web.archive.org/web/20230407134843/https://topplista.no/charts/singles/2023-w14/",
+    "a_id": "Q30323936-98",
+    "id_token": [
+        "Singel",
+        "2023",
+        "uke",
+        "14",
+        "\n",
+        "1",
+        "2",
+        "1",
+        "FLOWERS",
+        "Miley",
+        "Cyrus",
+        "COLUMBIA",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "12",
+        "\n",
+        "2",
+        "3",
+        "1",
+        "FLODEN",
+        "Hver",
+        "gang",
+        "vi",
+        "m\u00f8tesEmma",
+        "Steinbakken",
+        "COLUMBIA",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "15",
+        "\n",
+        "3",
+        "1",
+        "1",
+        "KLIKK",
+        "UNDERGRUNN",
+        "UG",
+        "RECORDS",
+        "4",
+        "\n",
+        "4",
+        "4",
+        "1",
+        "DELILAH",
+        "EMMA",
+        "STEINBAKKEN",
+        ",",
+        "HVER",
+        "GANG",
+        "VI",
+        "M\u00d8TES",
+        "COLUMBIA",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "8",
+        "\n",
+        "5",
+        "0",
+        "5",
+        "1",
+        "BroilerHjorterud",
+        "All\u00e9",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "1",
+        "\n",
+        "6",
+        "6",
+        "6",
+        "G63",
+        "C.Gambino",
+        "GG",
+        "MUSIC",
+        "/",
+        "AMUSEIO",
+        "AB",
+        "3",
+        "\n",
+        "7",
+        "5",
+        "5",
+        "TATTOO",
+        "Loreen",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "5",
+        "\n",
+        "8",
+        "8",
+        "1",
+        "QUEEN",
+        "OF",
+        "KINGS",
+        "Alessandra",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "11",
+        "\n",
+        "9",
+        "9",
+        "7",
+        "CAN'T",
+        "TAME",
+        "HER",
+        "Zara",
+        "Larsson",
+        "SOMMER",
+        "HOUSE",
+        "EPIC",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "10",
+        "\n",
+        "10",
+        "7",
+        "7",
+        "WONDERLAND",
+        "Blackie",
+        "WARNER",
+        "MUSIC",
+        "GROUP",
+        "2",
+        "\n",
+        "11",
+        "0",
+        "11",
+        "FAKK",
+        "MEG",
+        "OPP",
+        "TIXKris",
+        "Winther",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "1",
+        "\n",
+        "12",
+        "0",
+        "12",
+        "HELG",
+        "StavangerkamerateneRingnes",
+        "-",
+        "Ronny",
+        "MAJOR",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "1",
+        "\n",
+        "13",
+        "0",
+        "13",
+        "GAMLEVEIEN",
+        "SputnikStaysmanHagle",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "1",
+        "\n",
+        "14",
+        "12",
+        "4",
+        "EN",
+        "SHOT",
+        "Ballinciaga",
+        "VIRGIN",
+        "MUSIC",
+        "LABEL",
+        "AND",
+        "ARTIST",
+        "SERVICES",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "9",
+        "\n",
+        "15",
+        "10",
+        "1",
+        "I'M",
+        "GOOD",
+        "(",
+        "BLUE",
+        ")",
+        "DAVID",
+        "GUETTA",
+        ",",
+        "BEBE",
+        "REXHA",
+        "PARLOPHONE",
+        "UK",
+        "/",
+        "WARNER",
+        "MUSIC",
+        "GROUP",
+        "32",
+        "\n",
+        "16",
+        "0",
+        "16",
+        "SAY",
+        "SAY",
+        "SAY",
+        "(",
+        "FEAT",
+        ".",
+        "PAUL",
+        "MCCARTNEY",
+        "&",
+        "MICHAEL",
+        "JACKSON",
+        ")",
+        "KygoPaul",
+        "McCartneyMichael",
+        "Jackson",
+        "KYGO",
+        "RCA",
+        "RECORDS",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "1",
+        "\n",
+        "17",
+        "14",
+        "2",
+        "ALT",
+        "DU",
+        "VIL",
+        "HA",
+        "Maria",
+        "MenaHver",
+        "gang",
+        "vi",
+        "m\u00f8tesIsah",
+        "SDKT",
+        "ENTERTAINMENT",
+        "AS",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "14",
+        "\n",
+        "18",
+        "11",
+        "11",
+        "EYES",
+        "CLOSED",
+        "Ed",
+        "Sheeran",
+        "ATLANTIC",
+        "RECORDS",
+        "UK",
+        "/",
+        "WARNER",
+        "MUSIC",
+        "GROUP",
+        "2",
+        "\n",
+        "19",
+        "15",
+        "5",
+        "KILL",
+        "BILL",
+        "SZA",
+        "TOP",
+        "DAWG",
+        "ENTERTAINMENT",
+        "/",
+        "RCA",
+        "RECORDS",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "16",
+        "\n",
+        "20",
+        "19",
+        "10",
+        "ANOTHER",
+        "LOVE",
+        "Tom",
+        "Odell",
+        "COLUMBIA",
+        "RECORDS",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "48",
+        "\n",
+        "21",
+        "16",
+        "16",
+        "PEOPLE",
+        "Libianca",
+        "LIBIANCA",
+        "ENT",
+        "2022",
+        "/",
+        "PK",
+        "INTERACTIVE",
+        ",",
+        "INC",
+        ".",
+        "3",
+        "\n",
+        "22",
+        "29",
+        "1",
+        "DANS",
+        "P\u00c5",
+        "BORDET",
+        "BallinciagaDavid",
+        "Mokel",
+        "VIRGIN",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "58",
+        "\n",
+        "23",
+        "22",
+        "2",
+        "THE",
+        "BALLET",
+        "GIRL",
+        "Aden",
+        "Foyer",
+        "ADEN",
+        "FOYER",
+        "/",
+        "TUNECORE",
+        ",",
+        "INC",
+        "22",
+        "\n",
+        "24",
+        "28",
+        "10",
+        "BEST",
+        "P\u00c5",
+        "FEST",
+        "Carina",
+        "Dahl",
+        "TYLDEN",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "6",
+        "\n",
+        "25",
+        "13",
+        "13",
+        "MVH",
+        "SYNNE",
+        "VO",
+        "WARNER",
+        "MUSIC",
+        "GROUP",
+        "5",
+        "\n",
+        "26",
+        "18",
+        "16",
+        "CEILINGS",
+        "Lizzy",
+        "McAlpine",
+        "HARBOUR",
+        "ARTISTS",
+        "&",
+        "MUSIC",
+        "/",
+        "AWAL",
+        "6",
+        "\n",
+        "27",
+        "25",
+        "4",
+        "ESCAPISM",
+        ".",
+        "(",
+        "FEAT",
+        ".",
+        "070",
+        "SHAKE",
+        ")",
+        "RAYE070",
+        "Shake",
+        "HUMAN",
+        "RE",
+        "SOURCES",
+        "/",
+        "THE",
+        "ORCHARD",
+        "19",
+        "\n",
+        "28",
+        "40",
+        "28",
+        "F.H.D.S",
+        "!",
+        "Rambow",
+        "JUST",
+        "IN",
+        "TIME",
+        "ENT./THE",
+        "ORCHARD",
+        "ENTERPRISES",
+        "INC",
+        ".",
+        "2",
+        "\n",
+        "29",
+        "33",
+        "29",
+        "CALM",
+        "DOWN",
+        "Rema",
+        "MAVIN",
+        "RECORDS",
+        "/",
+        "JONZING",
+        "WORLD",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "4",
+        "\n",
+        "30",
+        "21",
+        "5",
+        "MYSTERIET",
+        "DEG",
+        "Hver",
+        "gang",
+        "vi",
+        "m\u00f8tesEmma",
+        "SteinbakkenIsah",
+        "SDKT",
+        "ENTERTAINMENT",
+        "AS",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "7",
+        "\n",
+        "31",
+        "27",
+        "7",
+        "CREEPIN",
+        "'",
+        "THE",
+        "WEEKND21",
+        "SavageMetro",
+        "Boomin",
+        "REPUBLIC",
+        "RECORDS",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "18",
+        "\n",
+        "32",
+        "36",
+        "3",
+        "ITALIA",
+        "UNDERGRUNN",
+        "UG",
+        "RECORDS",
+        "/",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "35",
+        "\n",
+        "33",
+        "39",
+        "2",
+        "AS",
+        "IT",
+        "WAS",
+        "Harry",
+        "Styles",
+        "COLUMBIA",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "46",
+        "\n",
+        "34",
+        "55",
+        "34",
+        "V\u00c5RRULL",
+        "Halva",
+        "Priset",
+        "ALL",
+        "IN",
+        "/",
+        "GG",
+        "MUSIC",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "1",
+        "\n",
+        "35",
+        "37",
+        "27",
+        "MIRACLE",
+        "Ellie",
+        "GouldingCalvin",
+        "Harris",
+        "COLUMBIA",
+        "/",
+        "SONY",
+        "MUSIC",
+        "ENTERTAINMENT",
+        "4",
+        "\n",
+        "36",
+        "0",
+        "36",
+        "LAKEN",
+        "Aibalille",
+        "Caesar",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "1",
+        "\n",
+        "37",
+        "32",
+        "10",
+        "BOY",
+        "'S",
+        "A",
+        "LIAR",
+        "PT",
+        ".",
+        "2",
+        "PinkPantheressIce",
+        "Spice",
+        "WARNER",
+        "MUSIC",
+        "GROUP",
+        "8",
+        "\n",
+        "38",
+        "45",
+        "6",
+        "DET",
+        "ENESTE",
+        "JEG",
+        "VIL",
+        "ER",
+        "\u00c5",
+        "HA",
+        "DET",
+        "FETT",
+        "BroilerPandaPanda",
+        "UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "(",
+        "SKY",
+        "AGENCY",
+        "AS)/UNIVERSAL",
+        "MUSIC",
+        "GROUP",
+        "12",
+        "\n",
+        "39",
+        "43",
+        "18",
+        "LAY",
+        "LOW",
+        "Ti\u00ebsto",
+        "MUSICAL",
+        "FREEDOM",
+        "/",
+        "WARNER",
+        "MUSIC",
+        "GROUP",
+        "12"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 6
+        },
+        {
+            "start": 7,
+            "end": 11
+        },
+        {
+            "start": 12,
+            "end": 15
+        },
+        {
+            "start": 16,
+            "end": 18
+        },
+        {
+            "start": 18,
+            "end": 19
+        },
+        {
+            "start": 19,
+            "end": 20
+        },
+        {
+            "start": 21,
+            "end": 22
+        },
+        {
+            "start": 23,
+            "end": 24
+        },
+        {
+            "start": 25,
+            "end": 32
+        },
+        {
+            "start": 33,
+            "end": 38
+        },
+        {
+            "start": 39,
+            "end": 44
+        },
+        {
+            "start": 45,
+            "end": 53
+        },
+        {
+            "start": 53,
+            "end": 54
+        },
+        {
+            "start": 54,
+            "end": 58
+        },
+        {
+            "start": 59,
+            "end": 64
+        },
+        {
+            "start": 65,
+            "end": 78
+        },
+        {
+            "start": 79,
+            "end": 81
+        },
+        {
+            "start": 81,
+            "end": 82
+        },
+        {
+            "start": 82,
+            "end": 83
+        },
+        {
+            "start": 84,
+            "end": 85
+        },
+        {
+            "start": 86,
+            "end": 87
+        },
+        {
+            "start": 88,
+            "end": 94
+        },
+        {
+            "start": 95,
+            "end": 99
+        },
+        {
+            "start": 100,
+            "end": 104
+        },
+        {
+            "start": 105,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 117
+        },
+        {
+            "start": 118,
+            "end": 129
+        },
+        {
+            "start": 130,
+            "end": 138
+        },
+        {
+            "start": 138,
+            "end": 139
+        },
+        {
+            "start": 139,
+            "end": 143
+        },
+        {
+            "start": 144,
+            "end": 149
+        },
+        {
+            "start": 150,
+            "end": 163
+        },
+        {
+            "start": 164,
+            "end": 166
+        },
+        {
+            "start": 166,
+            "end": 167
+        },
+        {
+            "start": 167,
+            "end": 168
+        },
+        {
+            "start": 169,
+            "end": 170
+        },
+        {
+            "start": 171,
+            "end": 172
+        },
+        {
+            "start": 173,
+            "end": 178
+        },
+        {
+            "start": 179,
+            "end": 189
+        },
+        {
+            "start": 190,
+            "end": 192
+        },
+        {
+            "start": 193,
+            "end": 200
+        },
+        {
+            "start": 201,
+            "end": 202
+        },
+        {
+            "start": 202,
+            "end": 203
+        },
+        {
+            "start": 203,
+            "end": 204
+        },
+        {
+            "start": 205,
+            "end": 206
+        },
+        {
+            "start": 207,
+            "end": 208
+        },
+        {
+            "start": 209,
+            "end": 216
+        },
+        {
+            "start": 217,
+            "end": 221
+        },
+        {
+            "start": 222,
+            "end": 233
+        },
+        {
+            "start": 233,
+            "end": 234
+        },
+        {
+            "start": 234,
+            "end": 238
+        },
+        {
+            "start": 239,
+            "end": 243
+        },
+        {
+            "start": 244,
+            "end": 246
+        },
+        {
+            "start": 247,
+            "end": 252
+        },
+        {
+            "start": 253,
+            "end": 261
+        },
+        {
+            "start": 261,
+            "end": 262
+        },
+        {
+            "start": 262,
+            "end": 266
+        },
+        {
+            "start": 267,
+            "end": 272
+        },
+        {
+            "start": 273,
+            "end": 286
+        },
+        {
+            "start": 287,
+            "end": 288
+        },
+        {
+            "start": 288,
+            "end": 289
+        },
+        {
+            "start": 289,
+            "end": 290
+        },
+        {
+            "start": 291,
+            "end": 292
+        },
+        {
+            "start": 293,
+            "end": 294
+        },
+        {
+            "start": 295,
+            "end": 296
+        },
+        {
+            "start": 297,
+            "end": 313
+        },
+        {
+            "start": 314,
+            "end": 318
+        },
+        {
+            "start": 319,
+            "end": 328
+        },
+        {
+            "start": 329,
+            "end": 334
+        },
+        {
+            "start": 335,
+            "end": 340
+        },
+        {
+            "start": 341,
+            "end": 342
+        },
+        {
+            "start": 342,
+            "end": 343
+        },
+        {
+            "start": 343,
+            "end": 344
+        },
+        {
+            "start": 345,
+            "end": 346
+        },
+        {
+            "start": 347,
+            "end": 348
+        },
+        {
+            "start": 349,
+            "end": 352
+        },
+        {
+            "start": 353,
+            "end": 362
+        },
+        {
+            "start": 363,
+            "end": 365
+        },
+        {
+            "start": 366,
+            "end": 371
+        },
+        {
+            "start": 371,
+            "end": 372
+        },
+        {
+            "start": 372,
+            "end": 379
+        },
+        {
+            "start": 380,
+            "end": 382
+        },
+        {
+            "start": 383,
+            "end": 384
+        },
+        {
+            "start": 384,
+            "end": 385
+        },
+        {
+            "start": 385,
+            "end": 386
+        },
+        {
+            "start": 387,
+            "end": 388
+        },
+        {
+            "start": 389,
+            "end": 390
+        },
+        {
+            "start": 391,
+            "end": 397
+        },
+        {
+            "start": 398,
+            "end": 404
+        },
+        {
+            "start": 405,
+            "end": 414
+        },
+        {
+            "start": 415,
+            "end": 420
+        },
+        {
+            "start": 421,
+            "end": 426
+        },
+        {
+            "start": 427,
+            "end": 428
+        },
+        {
+            "start": 428,
+            "end": 429
+        },
+        {
+            "start": 429,
+            "end": 430
+        },
+        {
+            "start": 431,
+            "end": 432
+        },
+        {
+            "start": 433,
+            "end": 434
+        },
+        {
+            "start": 435,
+            "end": 440
+        },
+        {
+            "start": 441,
+            "end": 443
+        },
+        {
+            "start": 444,
+            "end": 449
+        },
+        {
+            "start": 450,
+            "end": 460
+        },
+        {
+            "start": 461,
+            "end": 470
+        },
+        {
+            "start": 471,
+            "end": 476
+        },
+        {
+            "start": 477,
+            "end": 482
+        },
+        {
+            "start": 483,
+            "end": 485
+        },
+        {
+            "start": 485,
+            "end": 486
+        },
+        {
+            "start": 486,
+            "end": 487
+        },
+        {
+            "start": 488,
+            "end": 489
+        },
+        {
+            "start": 490,
+            "end": 491
+        },
+        {
+            "start": 492,
+            "end": 497
+        },
+        {
+            "start": 498,
+            "end": 502
+        },
+        {
+            "start": 503,
+            "end": 506
+        },
+        {
+            "start": 507,
+            "end": 511
+        },
+        {
+            "start": 512,
+            "end": 519
+        },
+        {
+            "start": 520,
+            "end": 526
+        },
+        {
+            "start": 527,
+            "end": 532
+        },
+        {
+            "start": 533,
+            "end": 537
+        },
+        {
+            "start": 537,
+            "end": 538
+        },
+        {
+            "start": 538,
+            "end": 542
+        },
+        {
+            "start": 543,
+            "end": 548
+        },
+        {
+            "start": 549,
+            "end": 562
+        },
+        {
+            "start": 563,
+            "end": 565
+        },
+        {
+            "start": 565,
+            "end": 566
+        },
+        {
+            "start": 566,
+            "end": 568
+        },
+        {
+            "start": 569,
+            "end": 570
+        },
+        {
+            "start": 571,
+            "end": 572
+        },
+        {
+            "start": 573,
+            "end": 583
+        },
+        {
+            "start": 584,
+            "end": 591
+        },
+        {
+            "start": 592,
+            "end": 598
+        },
+        {
+            "start": 599,
+            "end": 604
+        },
+        {
+            "start": 605,
+            "end": 610
+        },
+        {
+            "start": 611,
+            "end": 612
+        },
+        {
+            "start": 612,
+            "end": 613
+        },
+        {
+            "start": 613,
+            "end": 615
+        },
+        {
+            "start": 616,
+            "end": 617
+        },
+        {
+            "start": 618,
+            "end": 620
+        },
+        {
+            "start": 621,
+            "end": 625
+        },
+        {
+            "start": 626,
+            "end": 629
+        },
+        {
+            "start": 630,
+            "end": 633
+        },
+        {
+            "start": 634,
+            "end": 641
+        },
+        {
+            "start": 642,
+            "end": 649
+        },
+        {
+            "start": 650,
+            "end": 659
+        },
+        {
+            "start": 660,
+            "end": 665
+        },
+        {
+            "start": 666,
+            "end": 671
+        },
+        {
+            "start": 672,
+            "end": 673
+        },
+        {
+            "start": 673,
+            "end": 674
+        },
+        {
+            "start": 674,
+            "end": 676
+        },
+        {
+            "start": 677,
+            "end": 678
+        },
+        {
+            "start": 679,
+            "end": 681
+        },
+        {
+            "start": 682,
+            "end": 686
+        },
+        {
+            "start": 687,
+            "end": 713
+        },
+        {
+            "start": 713,
+            "end": 714
+        },
+        {
+            "start": 714,
+            "end": 719
+        },
+        {
+            "start": 720,
+            "end": 725
+        },
+        {
+            "start": 725,
+            "end": 726
+        },
+        {
+            "start": 726,
+            "end": 735
+        },
+        {
+            "start": 736,
+            "end": 741
+        },
+        {
+            "start": 742,
+            "end": 747
+        },
+        {
+            "start": 748,
+            "end": 749
+        },
+        {
+            "start": 749,
+            "end": 750
+        },
+        {
+            "start": 750,
+            "end": 752
+        },
+        {
+            "start": 753,
+            "end": 754
+        },
+        {
+            "start": 755,
+            "end": 757
+        },
+        {
+            "start": 758,
+            "end": 768
+        },
+        {
+            "start": 769,
+            "end": 789
+        },
+        {
+            "start": 790,
+            "end": 799
+        },
+        {
+            "start": 800,
+            "end": 805
+        },
+        {
+            "start": 806,
+            "end": 811
+        },
+        {
+            "start": 812,
+            "end": 813
+        },
+        {
+            "start": 813,
+            "end": 814
+        },
+        {
+            "start": 814,
+            "end": 816
+        },
+        {
+            "start": 817,
+            "end": 819
+        },
+        {
+            "start": 820,
+            "end": 821
+        },
+        {
+            "start": 822,
+            "end": 824
+        },
+        {
+            "start": 825,
+            "end": 829
+        },
+        {
+            "start": 830,
+            "end": 841
+        },
+        {
+            "start": 842,
+            "end": 848
+        },
+        {
+            "start": 849,
+            "end": 854
+        },
+        {
+            "start": 855,
+            "end": 860
+        },
+        {
+            "start": 861,
+            "end": 864
+        },
+        {
+            "start": 865,
+            "end": 871
+        },
+        {
+            "start": 872,
+            "end": 880
+        },
+        {
+            "start": 880,
+            "end": 881
+        },
+        {
+            "start": 881,
+            "end": 890
+        },
+        {
+            "start": 891,
+            "end": 896
+        },
+        {
+            "start": 897,
+            "end": 902
+        },
+        {
+            "start": 903,
+            "end": 904
+        },
+        {
+            "start": 904,
+            "end": 905
+        },
+        {
+            "start": 905,
+            "end": 907
+        },
+        {
+            "start": 908,
+            "end": 910
+        },
+        {
+            "start": 911,
+            "end": 912
+        },
+        {
+            "start": 913,
+            "end": 916
+        },
+        {
+            "start": 917,
+            "end": 921
+        },
+        {
+            "start": 922,
+            "end": 923
+        },
+        {
+            "start": 923,
+            "end": 927
+        },
+        {
+            "start": 927,
+            "end": 928
+        },
+        {
+            "start": 929,
+            "end": 934
+        },
+        {
+            "start": 935,
+            "end": 941
+        },
+        {
+            "start": 941,
+            "end": 942
+        },
+        {
+            "start": 943,
+            "end": 947
+        },
+        {
+            "start": 948,
+            "end": 953
+        },
+        {
+            "start": 954,
+            "end": 964
+        },
+        {
+            "start": 965,
+            "end": 967
+        },
+        {
+            "start": 967,
+            "end": 968
+        },
+        {
+            "start": 968,
+            "end": 974
+        },
+        {
+            "start": 975,
+            "end": 980
+        },
+        {
+            "start": 981,
+            "end": 986
+        },
+        {
+            "start": 987,
+            "end": 989
+        },
+        {
+            "start": 989,
+            "end": 990
+        },
+        {
+            "start": 990,
+            "end": 992
+        },
+        {
+            "start": 993,
+            "end": 994
+        },
+        {
+            "start": 995,
+            "end": 997
+        },
+        {
+            "start": 998,
+            "end": 1001
+        },
+        {
+            "start": 1002,
+            "end": 1005
+        },
+        {
+            "start": 1006,
+            "end": 1009
+        },
+        {
+            "start": 1010,
+            "end": 1011
+        },
+        {
+            "start": 1011,
+            "end": 1015
+        },
+        {
+            "start": 1015,
+            "end": 1016
+        },
+        {
+            "start": 1017,
+            "end": 1021
+        },
+        {
+            "start": 1022,
+            "end": 1031
+        },
+        {
+            "start": 1032,
+            "end": 1033
+        },
+        {
+            "start": 1034,
+            "end": 1041
+        },
+        {
+            "start": 1042,
+            "end": 1049
+        },
+        {
+            "start": 1049,
+            "end": 1050
+        },
+        {
+            "start": 1051,
+            "end": 1059
+        },
+        {
+            "start": 1060,
+            "end": 1076
+        },
+        {
+            "start": 1077,
+            "end": 1084
+        },
+        {
+            "start": 1085,
+            "end": 1089
+        },
+        {
+            "start": 1090,
+            "end": 1093
+        },
+        {
+            "start": 1094,
+            "end": 1101
+        },
+        {
+            "start": 1101,
+            "end": 1102
+        },
+        {
+            "start": 1102,
+            "end": 1106
+        },
+        {
+            "start": 1107,
+            "end": 1112
+        },
+        {
+            "start": 1113,
+            "end": 1126
+        },
+        {
+            "start": 1127,
+            "end": 1128
+        },
+        {
+            "start": 1128,
+            "end": 1129
+        },
+        {
+            "start": 1129,
+            "end": 1131
+        },
+        {
+            "start": 1132,
+            "end": 1134
+        },
+        {
+            "start": 1135,
+            "end": 1136
+        },
+        {
+            "start": 1137,
+            "end": 1140
+        },
+        {
+            "start": 1141,
+            "end": 1143
+        },
+        {
+            "start": 1144,
+            "end": 1147
+        },
+        {
+            "start": 1148,
+            "end": 1150
+        },
+        {
+            "start": 1151,
+            "end": 1156
+        },
+        {
+            "start": 1157,
+            "end": 1165
+        },
+        {
+            "start": 1166,
+            "end": 1170
+        },
+        {
+            "start": 1171,
+            "end": 1173
+        },
+        {
+            "start": 1174,
+            "end": 1183
+        },
+        {
+            "start": 1184,
+            "end": 1188
+        },
+        {
+            "start": 1189,
+            "end": 1202
+        },
+        {
+            "start": 1203,
+            "end": 1205
+        },
+        {
+            "start": 1205,
+            "end": 1206
+        },
+        {
+            "start": 1206,
+            "end": 1210
+        },
+        {
+            "start": 1211,
+            "end": 1216
+        },
+        {
+            "start": 1217,
+            "end": 1230
+        },
+        {
+            "start": 1231,
+            "end": 1233
+        },
+        {
+            "start": 1233,
+            "end": 1234
+        },
+        {
+            "start": 1234,
+            "end": 1236
+        },
+        {
+            "start": 1237,
+            "end": 1239
+        },
+        {
+            "start": 1240,
+            "end": 1242
+        },
+        {
+            "start": 1243,
+            "end": 1247
+        },
+        {
+            "start": 1248,
+            "end": 1254
+        },
+        {
+            "start": 1255,
+            "end": 1257
+        },
+        {
+            "start": 1258,
+            "end": 1265
+        },
+        {
+            "start": 1266,
+            "end": 1274
+        },
+        {
+            "start": 1275,
+            "end": 1282
+        },
+        {
+            "start": 1283,
+            "end": 1285
+        },
+        {
+            "start": 1285,
+            "end": 1286
+        },
+        {
+            "start": 1286,
+            "end": 1292
+        },
+        {
+            "start": 1293,
+            "end": 1298
+        },
+        {
+            "start": 1299,
+            "end": 1304
+        },
+        {
+            "start": 1305,
+            "end": 1306
+        },
+        {
+            "start": 1306,
+            "end": 1307
+        },
+        {
+            "start": 1307,
+            "end": 1309
+        },
+        {
+            "start": 1310,
+            "end": 1312
+        },
+        {
+            "start": 1313,
+            "end": 1314
+        },
+        {
+            "start": 1315,
+            "end": 1319
+        },
+        {
+            "start": 1320,
+            "end": 1324
+        },
+        {
+            "start": 1325,
+            "end": 1328
+        },
+        {
+            "start": 1329,
+            "end": 1332
+        },
+        {
+            "start": 1333,
+            "end": 1337
+        },
+        {
+            "start": 1338,
+            "end": 1351
+        },
+        {
+            "start": 1351,
+            "end": 1352
+        },
+        {
+            "start": 1352,
+            "end": 1355
+        },
+        {
+            "start": 1356,
+            "end": 1363
+        },
+        {
+            "start": 1363,
+            "end": 1364
+        },
+        {
+            "start": 1364,
+            "end": 1368
+        },
+        {
+            "start": 1369,
+            "end": 1374
+        },
+        {
+            "start": 1375,
+            "end": 1388
+        },
+        {
+            "start": 1389,
+            "end": 1391
+        },
+        {
+            "start": 1391,
+            "end": 1392
+        },
+        {
+            "start": 1392,
+            "end": 1394
+        },
+        {
+            "start": 1395,
+            "end": 1397
+        },
+        {
+            "start": 1398,
+            "end": 1400
+        },
+        {
+            "start": 1401,
+            "end": 1408
+        },
+        {
+            "start": 1409,
+            "end": 1413
+        },
+        {
+            "start": 1414,
+            "end": 1417
+        },
+        {
+            "start": 1418,
+            "end": 1423
+        },
+        {
+            "start": 1424,
+            "end": 1432
+        },
+        {
+            "start": 1433,
+            "end": 1440
+        },
+        {
+            "start": 1440,
+            "end": 1441
+        },
+        {
+            "start": 1441,
+            "end": 1445
+        },
+        {
+            "start": 1446,
+            "end": 1451
+        },
+        {
+            "start": 1452,
+            "end": 1465
+        },
+        {
+            "start": 1466,
+            "end": 1468
+        },
+        {
+            "start": 1468,
+            "end": 1469
+        },
+        {
+            "start": 1469,
+            "end": 1471
+        },
+        {
+            "start": 1472,
+            "end": 1474
+        },
+        {
+            "start": 1475,
+            "end": 1477
+        },
+        {
+            "start": 1478,
+            "end": 1484
+        },
+        {
+            "start": 1485,
+            "end": 1493
+        },
+        {
+            "start": 1494,
+            "end": 1502
+        },
+        {
+            "start": 1503,
+            "end": 1506
+        },
+        {
+            "start": 1507,
+            "end": 1511
+        },
+        {
+            "start": 1511,
+            "end": 1512
+        },
+        {
+            "start": 1512,
+            "end": 1514
+        },
+        {
+            "start": 1515,
+            "end": 1526
+        },
+        {
+            "start": 1526,
+            "end": 1527
+        },
+        {
+            "start": 1528,
+            "end": 1531
+        },
+        {
+            "start": 1531,
+            "end": 1532
+        },
+        {
+            "start": 1533,
+            "end": 1534
+        },
+        {
+            "start": 1534,
+            "end": 1535
+        },
+        {
+            "start": 1535,
+            "end": 1537
+        },
+        {
+            "start": 1538,
+            "end": 1540
+        },
+        {
+            "start": 1541,
+            "end": 1542
+        },
+        {
+            "start": 1543,
+            "end": 1547
+        },
+        {
+            "start": 1548,
+            "end": 1550
+        },
+        {
+            "start": 1551,
+            "end": 1557
+        },
+        {
+            "start": 1558,
+            "end": 1574
+        },
+        {
+            "start": 1575,
+            "end": 1580
+        },
+        {
+            "start": 1581,
+            "end": 1587
+        },
+        {
+            "start": 1587,
+            "end": 1588
+        },
+        {
+            "start": 1588,
+            "end": 1597
+        },
+        {
+            "start": 1598,
+            "end": 1603
+        },
+        {
+            "start": 1604,
+            "end": 1609
+        },
+        {
+            "start": 1610,
+            "end": 1612
+        },
+        {
+            "start": 1612,
+            "end": 1613
+        },
+        {
+            "start": 1613,
+            "end": 1615
+        },
+        {
+            "start": 1616,
+            "end": 1618
+        },
+        {
+            "start": 1619,
+            "end": 1620
+        },
+        {
+            "start": 1621,
+            "end": 1624
+        },
+        {
+            "start": 1625,
+            "end": 1631
+        },
+        {
+            "start": 1632,
+            "end": 1636
+        },
+        {
+            "start": 1637,
+            "end": 1641
+        },
+        {
+            "start": 1642,
+            "end": 1647
+        },
+        {
+            "start": 1648,
+            "end": 1652
+        },
+        {
+            "start": 1653,
+            "end": 1658
+        },
+        {
+            "start": 1658,
+            "end": 1659
+        },
+        {
+            "start": 1659,
+            "end": 1667
+        },
+        {
+            "start": 1667,
+            "end": 1668
+        },
+        {
+            "start": 1669,
+            "end": 1672
+        },
+        {
+            "start": 1673,
+            "end": 1675
+        },
+        {
+            "start": 1675,
+            "end": 1676
+        },
+        {
+            "start": 1676,
+            "end": 1678
+        },
+        {
+            "start": 1679,
+            "end": 1681
+        },
+        {
+            "start": 1682,
+            "end": 1684
+        },
+        {
+            "start": 1685,
+            "end": 1689
+        },
+        {
+            "start": 1690,
+            "end": 1692
+        },
+        {
+            "start": 1693,
+            "end": 1697
+        },
+        {
+            "start": 1698,
+            "end": 1704
+        },
+        {
+            "start": 1705,
+            "end": 1709
+        },
+        {
+            "start": 1710,
+            "end": 1716
+        },
+        {
+            "start": 1716,
+            "end": 1717
+        },
+        {
+            "start": 1717,
+            "end": 1726
+        },
+        {
+            "start": 1727,
+            "end": 1732
+        },
+        {
+            "start": 1733,
+            "end": 1738
+        },
+        {
+            "start": 1739,
+            "end": 1740
+        },
+        {
+            "start": 1740,
+            "end": 1741
+        },
+        {
+            "start": 1741,
+            "end": 1743
+        },
+        {
+            "start": 1744,
+            "end": 1746
+        },
+        {
+            "start": 1747,
+            "end": 1749
+        },
+        {
+            "start": 1750,
+            "end": 1753
+        },
+        {
+            "start": 1754,
+            "end": 1759
+        },
+        {
+            "start": 1760,
+            "end": 1762
+        },
+        {
+            "start": 1763,
+            "end": 1769
+        },
+        {
+            "start": 1770,
+            "end": 1775
+        },
+        {
+            "start": 1776,
+            "end": 1781
+        },
+        {
+            "start": 1782,
+            "end": 1783
+        },
+        {
+            "start": 1783,
+            "end": 1784
+        },
+        {
+            "start": 1784,
+            "end": 1786
+        },
+        {
+            "start": 1787,
+            "end": 1789
+        },
+        {
+            "start": 1790,
+            "end": 1792
+        },
+        {
+            "start": 1793,
+            "end": 1801
+        },
+        {
+            "start": 1802,
+            "end": 1807
+        },
+        {
+            "start": 1808,
+            "end": 1816
+        },
+        {
+            "start": 1817,
+            "end": 1824
+        },
+        {
+            "start": 1825,
+            "end": 1832
+        },
+        {
+            "start": 1833,
+            "end": 1834
+        },
+        {
+            "start": 1835,
+            "end": 1840
+        },
+        {
+            "start": 1840,
+            "end": 1841
+        },
+        {
+            "start": 1841,
+            "end": 1845
+        },
+        {
+            "start": 1846,
+            "end": 1847
+        },
+        {
+            "start": 1847,
+            "end": 1848
+        },
+        {
+            "start": 1848,
+            "end": 1850
+        },
+        {
+            "start": 1851,
+            "end": 1853
+        },
+        {
+            "start": 1854,
+            "end": 1855
+        },
+        {
+            "start": 1856,
+            "end": 1864
+        },
+        {
+            "start": 1864,
+            "end": 1865
+        },
+        {
+            "start": 1866,
+            "end": 1867
+        },
+        {
+            "start": 1867,
+            "end": 1871
+        },
+        {
+            "start": 1871,
+            "end": 1872
+        },
+        {
+            "start": 1873,
+            "end": 1876
+        },
+        {
+            "start": 1877,
+            "end": 1882
+        },
+        {
+            "start": 1882,
+            "end": 1883
+        },
+        {
+            "start": 1884,
+            "end": 1891
+        },
+        {
+            "start": 1892,
+            "end": 1897
+        },
+        {
+            "start": 1898,
+            "end": 1903
+        },
+        {
+            "start": 1904,
+            "end": 1906
+        },
+        {
+            "start": 1907,
+            "end": 1914
+        },
+        {
+            "start": 1914,
+            "end": 1915
+        },
+        {
+            "start": 1915,
+            "end": 1918
+        },
+        {
+            "start": 1919,
+            "end": 1926
+        },
+        {
+            "start": 1927,
+            "end": 1929
+        },
+        {
+            "start": 1929,
+            "end": 1930
+        },
+        {
+            "start": 1930,
+            "end": 1932
+        },
+        {
+            "start": 1933,
+            "end": 1935
+        },
+        {
+            "start": 1936,
+            "end": 1938
+        },
+        {
+            "start": 1939,
+            "end": 1946
+        },
+        {
+            "start": 1946,
+            "end": 1947
+        },
+        {
+            "start": 1948,
+            "end": 1954
+        },
+        {
+            "start": 1955,
+            "end": 1959
+        },
+        {
+            "start": 1960,
+            "end": 1962
+        },
+        {
+            "start": 1963,
+            "end": 1967
+        },
+        {
+            "start": 1968,
+            "end": 1976
+        },
+        {
+            "start": 1977,
+            "end": 1984
+        },
+        {
+            "start": 1985,
+            "end": 1996
+        },
+        {
+            "start": 1997,
+            "end": 2000
+        },
+        {
+            "start": 2000,
+            "end": 2001
+        },
+        {
+            "start": 2002,
+            "end": 2003
+        },
+        {
+            "start": 2003,
+            "end": 2004
+        },
+        {
+            "start": 2004,
+            "end": 2006
+        },
+        {
+            "start": 2007,
+            "end": 2009
+        },
+        {
+            "start": 2010,
+            "end": 2012
+        },
+        {
+            "start": 2013,
+            "end": 2017
+        },
+        {
+            "start": 2018,
+            "end": 2022
+        },
+        {
+            "start": 2023,
+            "end": 2027
+        },
+        {
+            "start": 2028,
+            "end": 2033
+        },
+        {
+            "start": 2034,
+            "end": 2041
+        },
+        {
+            "start": 2042,
+            "end": 2043
+        },
+        {
+            "start": 2044,
+            "end": 2051
+        },
+        {
+            "start": 2052,
+            "end": 2057
+        },
+        {
+            "start": 2057,
+            "end": 2058
+        },
+        {
+            "start": 2058,
+            "end": 2067
+        },
+        {
+            "start": 2068,
+            "end": 2073
+        },
+        {
+            "start": 2074,
+            "end": 2079
+        },
+        {
+            "start": 2080,
+            "end": 2081
+        },
+        {
+            "start": 2081,
+            "end": 2082
+        },
+        {
+            "start": 2082,
+            "end": 2084
+        },
+        {
+            "start": 2085,
+            "end": 2087
+        },
+        {
+            "start": 2088,
+            "end": 2089
+        },
+        {
+            "start": 2090,
+            "end": 2099
+        },
+        {
+            "start": 2100,
+            "end": 2103
+        },
+        {
+            "start": 2104,
+            "end": 2108
+        },
+        {
+            "start": 2109,
+            "end": 2113
+        },
+        {
+            "start": 2114,
+            "end": 2116
+        },
+        {
+            "start": 2117,
+            "end": 2126
+        },
+        {
+            "start": 2127,
+            "end": 2142
+        },
+        {
+            "start": 2143,
+            "end": 2147
+        },
+        {
+            "start": 2148,
+            "end": 2161
+        },
+        {
+            "start": 2162,
+            "end": 2164
+        },
+        {
+            "start": 2164,
+            "end": 2165
+        },
+        {
+            "start": 2165,
+            "end": 2169
+        },
+        {
+            "start": 2170,
+            "end": 2175
+        },
+        {
+            "start": 2176,
+            "end": 2189
+        },
+        {
+            "start": 2190,
+            "end": 2191
+        },
+        {
+            "start": 2191,
+            "end": 2192
+        },
+        {
+            "start": 2192,
+            "end": 2194
+        },
+        {
+            "start": 2195,
+            "end": 2197
+        },
+        {
+            "start": 2198,
+            "end": 2199
+        },
+        {
+            "start": 2200,
+            "end": 2207
+        },
+        {
+            "start": 2207,
+            "end": 2208
+        },
+        {
+            "start": 2209,
+            "end": 2212
+        },
+        {
+            "start": 2213,
+            "end": 2221
+        },
+        {
+            "start": 2222,
+            "end": 2233
+        },
+        {
+            "start": 2234,
+            "end": 2240
+        },
+        {
+            "start": 2241,
+            "end": 2249
+        },
+        {
+            "start": 2250,
+            "end": 2257
+        },
+        {
+            "start": 2257,
+            "end": 2258
+        },
+        {
+            "start": 2258,
+            "end": 2267
+        },
+        {
+            "start": 2268,
+            "end": 2273
+        },
+        {
+            "start": 2274,
+            "end": 2279
+        },
+        {
+            "start": 2280,
+            "end": 2282
+        },
+        {
+            "start": 2282,
+            "end": 2283
+        },
+        {
+            "start": 2283,
+            "end": 2285
+        },
+        {
+            "start": 2286,
+            "end": 2288
+        },
+        {
+            "start": 2289,
+            "end": 2290
+        },
+        {
+            "start": 2291,
+            "end": 2297
+        },
+        {
+            "start": 2298,
+            "end": 2308
+        },
+        {
+            "start": 2309,
+            "end": 2311
+        },
+        {
+            "start": 2312,
+            "end": 2319
+        },
+        {
+            "start": 2319,
+            "end": 2320
+        },
+        {
+            "start": 2320,
+            "end": 2329
+        },
+        {
+            "start": 2330,
+            "end": 2335
+        },
+        {
+            "start": 2336,
+            "end": 2341
+        },
+        {
+            "start": 2342,
+            "end": 2344
+        },
+        {
+            "start": 2344,
+            "end": 2345
+        },
+        {
+            "start": 2345,
+            "end": 2347
+        },
+        {
+            "start": 2348,
+            "end": 2350
+        },
+        {
+            "start": 2351,
+            "end": 2352
+        },
+        {
+            "start": 2353,
+            "end": 2355
+        },
+        {
+            "start": 2356,
+            "end": 2358
+        },
+        {
+            "start": 2359,
+            "end": 2362
+        },
+        {
+            "start": 2363,
+            "end": 2368
+        },
+        {
+            "start": 2369,
+            "end": 2375
+        },
+        {
+            "start": 2376,
+            "end": 2384
+        },
+        {
+            "start": 2385,
+            "end": 2386
+        },
+        {
+            "start": 2387,
+            "end": 2391
+        },
+        {
+            "start": 2392,
+            "end": 2397
+        },
+        {
+            "start": 2398,
+            "end": 2411
+        },
+        {
+            "start": 2411,
+            "end": 2412
+        },
+        {
+            "start": 2412,
+            "end": 2416
+        },
+        {
+            "start": 2417,
+            "end": 2422
+        },
+        {
+            "start": 2423,
+            "end": 2436
+        },
+        {
+            "start": 2437,
+            "end": 2439
+        },
+        {
+            "start": 2439,
+            "end": 2440
+        },
+        {
+            "start": 2440,
+            "end": 2442
+        },
+        {
+            "start": 2443,
+            "end": 2445
+        },
+        {
+            "start": 2446,
+            "end": 2448
+        },
+        {
+            "start": 2449,
+            "end": 2456
+        },
+        {
+            "start": 2457,
+            "end": 2462
+        },
+        {
+            "start": 2463,
+            "end": 2469
+        },
+        {
+            "start": 2470,
+            "end": 2473
+        },
+        {
+            "start": 2474,
+            "end": 2476
+        },
+        {
+            "start": 2476,
+            "end": 2477
+        },
+        {
+            "start": 2477,
+            "end": 2479
+        },
+        {
+            "start": 2480,
+            "end": 2485
+        },
+        {
+            "start": 2485,
+            "end": 2486
+        },
+        {
+            "start": 2486,
+            "end": 2490
+        },
+        {
+            "start": 2491,
+            "end": 2496
+        },
+        {
+            "start": 2497,
+            "end": 2510
+        },
+        {
+            "start": 2511,
+            "end": 2512
+        },
+        {
+            "start": 2512,
+            "end": 2513
+        },
+        {
+            "start": 2513,
+            "end": 2515
+        },
+        {
+            "start": 2516,
+            "end": 2518
+        },
+        {
+            "start": 2519,
+            "end": 2521
+        },
+        {
+            "start": 2522,
+            "end": 2529
+        },
+        {
+            "start": 2530,
+            "end": 2535
+        },
+        {
+            "start": 2536,
+            "end": 2550
+        },
+        {
+            "start": 2551,
+            "end": 2557
+        },
+        {
+            "start": 2558,
+            "end": 2566
+        },
+        {
+            "start": 2566,
+            "end": 2567
+        },
+        {
+            "start": 2567,
+            "end": 2571
+        },
+        {
+            "start": 2572,
+            "end": 2577
+        },
+        {
+            "start": 2578,
+            "end": 2591
+        },
+        {
+            "start": 2592,
+            "end": 2593
+        },
+        {
+            "start": 2593,
+            "end": 2594
+        },
+        {
+            "start": 2594,
+            "end": 2596
+        },
+        {
+            "start": 2597,
+            "end": 2598
+        },
+        {
+            "start": 2599,
+            "end": 2601
+        },
+        {
+            "start": 2602,
+            "end": 2607
+        },
+        {
+            "start": 2608,
+            "end": 2617
+        },
+        {
+            "start": 2618,
+            "end": 2624
+        },
+        {
+            "start": 2625,
+            "end": 2634
+        },
+        {
+            "start": 2635,
+            "end": 2640
+        },
+        {
+            "start": 2641,
+            "end": 2646
+        },
+        {
+            "start": 2647,
+            "end": 2648
+        },
+        {
+            "start": 2648,
+            "end": 2649
+        },
+        {
+            "start": 2649,
+            "end": 2651
+        },
+        {
+            "start": 2652,
+            "end": 2654
+        },
+        {
+            "start": 2655,
+            "end": 2657
+        },
+        {
+            "start": 2658,
+            "end": 2661
+        },
+        {
+            "start": 2661,
+            "end": 2663
+        },
+        {
+            "start": 2664,
+            "end": 2665
+        },
+        {
+            "start": 2666,
+            "end": 2670
+        },
+        {
+            "start": 2671,
+            "end": 2673
+        },
+        {
+            "start": 2673,
+            "end": 2674
+        },
+        {
+            "start": 2675,
+            "end": 2676
+        },
+        {
+            "start": 2677,
+            "end": 2694
+        },
+        {
+            "start": 2695,
+            "end": 2700
+        },
+        {
+            "start": 2701,
+            "end": 2707
+        },
+        {
+            "start": 2708,
+            "end": 2713
+        },
+        {
+            "start": 2714,
+            "end": 2719
+        },
+        {
+            "start": 2720,
+            "end": 2721
+        },
+        {
+            "start": 2721,
+            "end": 2722
+        },
+        {
+            "start": 2722,
+            "end": 2724
+        },
+        {
+            "start": 2725,
+            "end": 2727
+        },
+        {
+            "start": 2728,
+            "end": 2729
+        },
+        {
+            "start": 2730,
+            "end": 2733
+        },
+        {
+            "start": 2734,
+            "end": 2740
+        },
+        {
+            "start": 2741,
+            "end": 2744
+        },
+        {
+            "start": 2745,
+            "end": 2748
+        },
+        {
+            "start": 2749,
+            "end": 2751
+        },
+        {
+            "start": 2752,
+            "end": 2753
+        },
+        {
+            "start": 2754,
+            "end": 2756
+        },
+        {
+            "start": 2757,
+            "end": 2760
+        },
+        {
+            "start": 2761,
+            "end": 2765
+        },
+        {
+            "start": 2766,
+            "end": 2783
+        },
+        {
+            "start": 2784,
+            "end": 2793
+        },
+        {
+            "start": 2794,
+            "end": 2799
+        },
+        {
+            "start": 2800,
+            "end": 2805
+        },
+        {
+            "start": 2806,
+            "end": 2807
+        },
+        {
+            "start": 2807,
+            "end": 2810
+        },
+        {
+            "start": 2811,
+            "end": 2817
+        },
+        {
+            "start": 2818,
+            "end": 2831
+        },
+        {
+            "start": 2832,
+            "end": 2837
+        },
+        {
+            "start": 2838,
+            "end": 2843
+        },
+        {
+            "start": 2844,
+            "end": 2846
+        },
+        {
+            "start": 2846,
+            "end": 2847
+        },
+        {
+            "start": 2847,
+            "end": 2849
+        },
+        {
+            "start": 2850,
+            "end": 2852
+        },
+        {
+            "start": 2853,
+            "end": 2855
+        },
+        {
+            "start": 2856,
+            "end": 2859
+        },
+        {
+            "start": 2860,
+            "end": 2863
+        },
+        {
+            "start": 2864,
+            "end": 2870
+        },
+        {
+            "start": 2871,
+            "end": 2878
+        },
+        {
+            "start": 2879,
+            "end": 2886
+        },
+        {
+            "start": 2886,
+            "end": 2887
+        },
+        {
+            "start": 2887,
+            "end": 2893
+        },
+        {
+            "start": 2894,
+            "end": 2899
+        },
+        {
+            "start": 2900,
+            "end": 2905
+        },
+        {
+            "start": 2906,
+            "end": 2908
+        }
+    ],
+    "coref": [
+        {
+            "GROUP": [
+                [
+                    103
+                ]
+            ],
+            "HER": [
+                [
+                    111
+                ]
+            ]
+        },
+        {
+            "GROUP": [
+                [
+                    130
+                ],
+                [
+                    206
+                ]
+            ]
+        },
+        {
+            "GROUP": [
+                [
+                    143
+                ],
+                [
+                    157
+                ]
+            ]
+        },
+        {
+            "GROUP": [
+                [
+                    167
+                ],
+                [
+                    185
+                ]
+            ]
+        },
+        {
+            "RECORDS": [
+                [
+                    229
+                ],
+                [
+                    265
+                ],
+                [
+                    284
+                ],
+                [
+                    299
+                ]
+            ]
+        },
+        {
+            "ENTERTAINMENT": [
+                [
+                    254
+                ],
+                [
+                    303
+                ]
+            ]
+        },
+        {
+            "INC": [
+                [
+                    318
+                ],
+                [
+                    350
+                ]
+            ]
+        },
+        {
+            "GROUP": [
+                [
+                    334
+                ],
+                [
+                    365
+                ]
+            ]
+        },
+        {
+            "SHAKE": [
+                [
+                    402
+                ]
+            ],
+            "Shake": [
+                [
+                    405
+                ]
+            ]
+        },
+        {
+            "ENTERTAINMENT": [
+                [
+                    463
+                ],
+                [
+                    512
+                ],
+                [
+                    529
+                ],
+                [
+                    543
+                ]
+            ]
+        },
+        {
+            "GROUP": [
+                [
+                    480
+                ],
+                [
+                    493
+                ]
+            ],
+            "IT": [
+                [
+                    500
+                ]
+            ]
+        },
+        {
+            "GROUP": [
+                [
+                    571
+                ],
+                [
+                    609
+                ]
+            ]
+        }
+    ]
+}

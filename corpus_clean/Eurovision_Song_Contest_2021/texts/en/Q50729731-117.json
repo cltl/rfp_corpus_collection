@@ -1,1 +1,264 @@
-{"title": "Eurovision Song Contest with English commentary", "text": "Eurovision Song Contest with English commentary\nIf you miss it live, you can watch on the R\u00daV player afterwards, here.\nIf the programme does not start at exactly 19.00, please refresh this page to reload the live stream.", "original_url": "https://www.ruv.is/frett/2021/05/17/eurovision-song-contest-with-english-commentary", "wayback_url": "https://web.archive.org/web/20210517190726/https://www.ruv.is/frett/2021/05/17/eurovision-song-contest-with-english-commentary", "a_id": "Q50729731-117", "coref": [[[2], [10]]], "id_token": ["Eurovision", "Song", "Contest", "with", "English", "commentary", "\n", "If", "you", "miss", "it", "live", ",", "you", "can", "watch", "on", "the", "R\u00daV", "player", "afterwards", ",", "here", ".", "\n", "If", "the", "programme", "does", "not", "start", "at", "exactly", "19.00", ",", "please", "refresh", "this", "page", "to", "reload", "the", "live", "stream", "."], "id_token_offset": [{"start": 0, "end": 10}, {"start": 11, "end": 15}, {"start": 16, "end": 23}, {"start": 24, "end": 28}, {"start": 29, "end": 36}, {"start": 37, "end": 47}, {"start": 47, "end": 48}, {"start": 48, "end": 50}, {"start": 51, "end": 54}, {"start": 55, "end": 59}, {"start": 60, "end": 62}, {"start": 63, "end": 67}, {"start": 67, "end": 68}, {"start": 69, "end": 72}, {"start": 73, "end": 76}, {"start": 77, "end": 82}, {"start": 83, "end": 85}, {"start": 86, "end": 89}, {"start": 90, "end": 93}, {"start": 94, "end": 100}, {"start": 101, "end": 111}, {"start": 111, "end": 112}, {"start": 113, "end": 117}, {"start": 117, "end": 118}, {"start": 118, "end": 119}, {"start": 119, "end": 121}, {"start": 122, "end": 125}, {"start": 126, "end": 135}, {"start": 136, "end": 140}, {"start": 141, "end": 144}, {"start": 145, "end": 150}, {"start": 151, "end": 153}, {"start": 154, "end": 161}, {"start": 162, "end": 167}, {"start": 167, "end": 168}, {"start": 169, "end": 175}, {"start": 176, "end": 183}, {"start": 184, "end": 188}, {"start": 189, "end": 193}, {"start": 194, "end": 196}, {"start": 197, "end": 203}, {"start": 204, "end": 207}, {"start": 208, "end": 212}, {"start": 213, "end": 219}, {"start": 219, "end": 220}], "coref_text": [{"Contest": [[2]], "it": [[10]]}]}
+{
+    "title": "Eurovision Song Contest with English commentary",
+    "text": "Eurovision Song Contest with English commentary\nIf you miss it live, you can watch on the R\u00daV player afterwards, here.\nIf the programme does not start at exactly 19.00, please refresh this page to reload the live stream.",
+    "original_url": "https://www.ruv.is/frett/2021/05/17/eurovision-song-contest-with-english-commentary",
+    "wayback_url": "https://web.archive.org/web/20210517190726/https://www.ruv.is/frett/2021/05/17/eurovision-song-contest-with-english-commentary",
+    "a_id": "Q50729731-117",
+    "coref": [
+        {
+            "Contest": [
+                [
+                    2
+                ]
+            ],
+            "it": [
+                [
+                    10
+                ]
+            ]
+        }
+    ],
+    "id_token": [
+        "Eurovision",
+        "Song",
+        "Contest",
+        "with",
+        "English",
+        "commentary",
+        "\n",
+        "If",
+        "you",
+        "miss",
+        "it",
+        "live",
+        ",",
+        "you",
+        "can",
+        "watch",
+        "on",
+        "the",
+        "R\u00daV",
+        "player",
+        "afterwards",
+        ",",
+        "here",
+        ".",
+        "\n",
+        "If",
+        "the",
+        "programme",
+        "does",
+        "not",
+        "start",
+        "at",
+        "exactly",
+        "19.00",
+        ",",
+        "please",
+        "refresh",
+        "this",
+        "page",
+        "to",
+        "reload",
+        "the",
+        "live",
+        "stream",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 10
+        },
+        {
+            "start": 11,
+            "end": 15
+        },
+        {
+            "start": 16,
+            "end": 23
+        },
+        {
+            "start": 24,
+            "end": 28
+        },
+        {
+            "start": 29,
+            "end": 36
+        },
+        {
+            "start": 37,
+            "end": 47
+        },
+        {
+            "start": 47,
+            "end": 48
+        },
+        {
+            "start": 48,
+            "end": 50
+        },
+        {
+            "start": 51,
+            "end": 54
+        },
+        {
+            "start": 55,
+            "end": 59
+        },
+        {
+            "start": 60,
+            "end": 62
+        },
+        {
+            "start": 63,
+            "end": 67
+        },
+        {
+            "start": 67,
+            "end": 68
+        },
+        {
+            "start": 69,
+            "end": 72
+        },
+        {
+            "start": 73,
+            "end": 76
+        },
+        {
+            "start": 77,
+            "end": 82
+        },
+        {
+            "start": 83,
+            "end": 85
+        },
+        {
+            "start": 86,
+            "end": 89
+        },
+        {
+            "start": 90,
+            "end": 93
+        },
+        {
+            "start": 94,
+            "end": 100
+        },
+        {
+            "start": 101,
+            "end": 111
+        },
+        {
+            "start": 111,
+            "end": 112
+        },
+        {
+            "start": 113,
+            "end": 117
+        },
+        {
+            "start": 117,
+            "end": 118
+        },
+        {
+            "start": 118,
+            "end": 119
+        },
+        {
+            "start": 119,
+            "end": 121
+        },
+        {
+            "start": 122,
+            "end": 125
+        },
+        {
+            "start": 126,
+            "end": 135
+        },
+        {
+            "start": 136,
+            "end": 140
+        },
+        {
+            "start": 141,
+            "end": 144
+        },
+        {
+            "start": 145,
+            "end": 150
+        },
+        {
+            "start": 151,
+            "end": 153
+        },
+        {
+            "start": 154,
+            "end": 161
+        },
+        {
+            "start": 162,
+            "end": 167
+        },
+        {
+            "start": 167,
+            "end": 168
+        },
+        {
+            "start": 169,
+            "end": 175
+        },
+        {
+            "start": 176,
+            "end": 183
+        },
+        {
+            "start": 184,
+            "end": 188
+        },
+        {
+            "start": 189,
+            "end": 193
+        },
+        {
+            "start": 194,
+            "end": 196
+        },
+        {
+            "start": 197,
+            "end": 203
+        },
+        {
+            "start": 204,
+            "end": 207
+        },
+        {
+            "start": 208,
+            "end": 212
+        },
+        {
+            "start": 213,
+            "end": 219
+        },
+        {
+            "start": 219,
+            "end": 220
+        }
+    ],
+    "coref_text": [
+        {
+            "Contest": [
+                [
+                    2
+                ]
+            ],
+            "it": [
+                [
+                    10
+                ]
+            ]
+        }
+    ]
+}

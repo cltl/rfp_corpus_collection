@@ -1,1 +1,323 @@
-{"title": "\"Manizha\" -wikipedia", "text": "\"Manizha\" -wikipedia\nManizha, hearing him, was frightened, thinking he had lost his reason. She demanded to know the occasion for such laughter, and he said he would tell her something if she would take solemn oath to keep it a secret.", "original_url": "https://www.google.com/search?tbs=bks:1&q=%22Manizha%22+-wikipedia", "wayback_url": "https://web.archive.org/web/20230528013401/https://www.google.com/search?tbs=bks:1&q=%22Manizha%22+-wikipedia", "a_id": "Q29359663-75"}
+{
+    "title": "\"Manizha\" -wikipedia",
+    "text": "\"Manizha\" -wikipedia\nManizha, hearing him, was frightened, thinking he had lost his reason. She demanded to know the occasion for such laughter, and he said he would tell her something if she would take solemn oath to keep it a secret.",
+    "original_url": "https://www.google.com/search?tbs=bks:1&q=%22Manizha%22+-wikipedia",
+    "wayback_url": "https://web.archive.org/web/20230528013401/https://www.google.com/search?tbs=bks:1&q=%22Manizha%22+-wikipedia",
+    "a_id": "Q29359663-75",
+    "id_token": [
+        "\"",
+        "Manizha",
+        "\"",
+        "-wikipedia",
+        "\n",
+        "Manizha",
+        ",",
+        "hearing",
+        "him",
+        ",",
+        "was",
+        "frightened",
+        ",",
+        "thinking",
+        "he",
+        "had",
+        "lost",
+        "his",
+        "reason",
+        ".",
+        "She",
+        "demanded",
+        "to",
+        "know",
+        "the",
+        "occasion",
+        "for",
+        "such",
+        "laughter",
+        ",",
+        "and",
+        "he",
+        "said",
+        "he",
+        "would",
+        "tell",
+        "her",
+        "something",
+        "if",
+        "she",
+        "would",
+        "take",
+        "solemn",
+        "oath",
+        "to",
+        "keep",
+        "it",
+        "a",
+        "secret",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 1
+        },
+        {
+            "start": 1,
+            "end": 8
+        },
+        {
+            "start": 8,
+            "end": 9
+        },
+        {
+            "start": 10,
+            "end": 20
+        },
+        {
+            "start": 20,
+            "end": 21
+        },
+        {
+            "start": 21,
+            "end": 28
+        },
+        {
+            "start": 28,
+            "end": 29
+        },
+        {
+            "start": 30,
+            "end": 37
+        },
+        {
+            "start": 38,
+            "end": 41
+        },
+        {
+            "start": 41,
+            "end": 42
+        },
+        {
+            "start": 43,
+            "end": 46
+        },
+        {
+            "start": 47,
+            "end": 57
+        },
+        {
+            "start": 57,
+            "end": 58
+        },
+        {
+            "start": 59,
+            "end": 67
+        },
+        {
+            "start": 68,
+            "end": 70
+        },
+        {
+            "start": 71,
+            "end": 74
+        },
+        {
+            "start": 75,
+            "end": 79
+        },
+        {
+            "start": 80,
+            "end": 83
+        },
+        {
+            "start": 84,
+            "end": 90
+        },
+        {
+            "start": 90,
+            "end": 91
+        },
+        {
+            "start": 92,
+            "end": 95
+        },
+        {
+            "start": 96,
+            "end": 104
+        },
+        {
+            "start": 105,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 112
+        },
+        {
+            "start": 113,
+            "end": 116
+        },
+        {
+            "start": 117,
+            "end": 125
+        },
+        {
+            "start": 126,
+            "end": 129
+        },
+        {
+            "start": 130,
+            "end": 134
+        },
+        {
+            "start": 135,
+            "end": 143
+        },
+        {
+            "start": 143,
+            "end": 144
+        },
+        {
+            "start": 145,
+            "end": 148
+        },
+        {
+            "start": 149,
+            "end": 151
+        },
+        {
+            "start": 152,
+            "end": 156
+        },
+        {
+            "start": 157,
+            "end": 159
+        },
+        {
+            "start": 160,
+            "end": 165
+        },
+        {
+            "start": 166,
+            "end": 170
+        },
+        {
+            "start": 171,
+            "end": 174
+        },
+        {
+            "start": 175,
+            "end": 184
+        },
+        {
+            "start": 185,
+            "end": 187
+        },
+        {
+            "start": 188,
+            "end": 191
+        },
+        {
+            "start": 192,
+            "end": 197
+        },
+        {
+            "start": 198,
+            "end": 202
+        },
+        {
+            "start": 203,
+            "end": 209
+        },
+        {
+            "start": 210,
+            "end": 214
+        },
+        {
+            "start": 215,
+            "end": 217
+        },
+        {
+            "start": 218,
+            "end": 222
+        },
+        {
+            "start": 223,
+            "end": 225
+        },
+        {
+            "start": 226,
+            "end": 227
+        },
+        {
+            "start": 228,
+            "end": 234
+        },
+        {
+            "start": 234,
+            "end": 235
+        }
+    ],
+    "coref": [
+        {
+            "Manizha": [
+                [
+                    1
+                ],
+                [
+                    5
+                ]
+            ],
+            "She": [
+                [
+                    20
+                ]
+            ],
+            "her": [
+                [
+                    36
+                ]
+            ],
+            "she": [
+                [
+                    39
+                ]
+            ]
+        },
+        {
+            "him": [
+                [
+                    8
+                ]
+            ],
+            "he": [
+                [
+                    14
+                ],
+                [
+                    31
+                ],
+                [
+                    33
+                ]
+            ],
+            "his": [
+                [
+                    17
+                ]
+            ]
+        },
+        {
+            "oath": [
+                [
+                    43
+                ]
+            ],
+            "it": [
+                [
+                    46
+                ]
+            ]
+        }
+    ]
+}

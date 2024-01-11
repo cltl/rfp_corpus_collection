@@ -1,1 +1,1352 @@
-{"title": "results/titledata", "text": "results/titledata\nfilter your search by library you have the choice to sort by ... fuzzy search on? * Search (and) = a search operation of two or more search terms\nshows the titles that contain all the search terms entered\n* Search (or) = a search operation with two or more search terms shows\nall titles that contain at least one of the search terms.\n* Browse = with the selection Browse you can\nscan the index for the search terms you have entered.\n* After a search it is possible to \"enlarge\", \"restrict\", etc. the results. for help about the search key, please click the icon search [or] search [and] restrict enlarge except rerank browse Teilwortsuche [SW] Phrase [SP] Subject heading, person[SWP] Subject heading, subjects [SWS] Subject heading, geographical[SWG] Subject heading, corporation (name)[SWK] Subject heading, corporation (place)[SWC] Subject heading, uniform title [SWT] Person/author (phrase: surname, first name) [PER] Person, author (keyword) [PST] corporations, congresses, geographics (keyword)[KOR] corporations, congresses, geographics (phrase)[KOR] Urheber: Werk[UWK] GND-Nummer [NID] Sonstige Standardnummern [NUM] Redaktionelle Bemerkungen, Definitionen [BEM] sort by relevance alphabetical (A..Z) alphabetical (Z..A)", "original_url": "https://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&trm_old=&ACT=SRCHA&IKT=2999&SRT=RLV&TRM=1227468180", "wayback_url": "https://web.archive.org/web/20210814162814/https://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&trm_old=&ACT=SRCHA&IKT=2999&SRT=RLV&TRM=1227468180", "a_id": "Q11068745-9"}
+{
+    "title": "results/titledata",
+    "text": "results/titledata\nfilter your search by library you have the choice to sort by ... fuzzy search on? * Search (and) = a search operation of two or more search terms\nshows the titles that contain all the search terms entered\n* Search (or) = a search operation with two or more search terms shows\nall titles that contain at least one of the search terms.\n* Browse = with the selection Browse you can\nscan the index for the search terms you have entered.\n* After a search it is possible to \"enlarge\", \"restrict\", etc. the results. for help about the search key, please click the icon search [or] search [and] restrict enlarge except rerank browse Teilwortsuche [SW] Phrase [SP] Subject heading, person[SWP] Subject heading, subjects [SWS] Subject heading, geographical[SWG] Subject heading, corporation (name)[SWK] Subject heading, corporation (place)[SWC] Subject heading, uniform title [SWT] Person/author (phrase: surname, first name) [PER] Person, author (keyword) [PST] corporations, congresses, geographics (keyword)[KOR] corporations, congresses, geographics (phrase)[KOR] Urheber: Werk[UWK] GND-Nummer [NID] Sonstige Standardnummern [NUM] Redaktionelle Bemerkungen, Definitionen [BEM] sort by relevance alphabetical (A..Z) alphabetical (Z..A)",
+    "original_url": "https://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&trm_old=&ACT=SRCHA&IKT=2999&SRT=RLV&TRM=1227468180",
+    "wayback_url": "https://web.archive.org/web/20210814162814/https://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&trm_old=&ACT=SRCHA&IKT=2999&SRT=RLV&TRM=1227468180",
+    "a_id": "Q11068745-9",
+    "id_token": [
+        "results",
+        "/",
+        "titledata",
+        "\n",
+        "filter",
+        "your",
+        "search",
+        "by",
+        "library",
+        "you",
+        "have",
+        "the",
+        "choice",
+        "to",
+        "sort",
+        "by",
+        "...",
+        "fuzzy",
+        "search",
+        "on",
+        "?",
+        "*",
+        "Search",
+        "(",
+        "and",
+        ")",
+        "=",
+        "a",
+        "search",
+        "operation",
+        "of",
+        "two",
+        "or",
+        "more",
+        "search",
+        "terms",
+        "\n",
+        "shows",
+        "the",
+        "titles",
+        "that",
+        "contain",
+        "all",
+        "the",
+        "search",
+        "terms",
+        "entered",
+        "\n",
+        "*",
+        "Search",
+        "(",
+        "or",
+        ")",
+        "=",
+        "a",
+        "search",
+        "operation",
+        "with",
+        "two",
+        "or",
+        "more",
+        "search",
+        "terms",
+        "shows",
+        "\n",
+        "all",
+        "titles",
+        "that",
+        "contain",
+        "at",
+        "least",
+        "one",
+        "of",
+        "the",
+        "search",
+        "terms",
+        ".",
+        "\n",
+        "*",
+        "Browse",
+        "=",
+        "with",
+        "the",
+        "selection",
+        "Browse",
+        "you",
+        "can",
+        "\n",
+        "scan",
+        "the",
+        "index",
+        "for",
+        "the",
+        "search",
+        "terms",
+        "you",
+        "have",
+        "entered",
+        ".",
+        "\n",
+        "*",
+        "After",
+        "a",
+        "search",
+        "it",
+        "is",
+        "possible",
+        "to",
+        "\"",
+        "enlarge",
+        "\"",
+        ",",
+        "\"",
+        "restrict",
+        "\"",
+        ",",
+        "etc",
+        ".",
+        "the",
+        "results",
+        ".",
+        "for",
+        "help",
+        "about",
+        "the",
+        "search",
+        "key",
+        ",",
+        "please",
+        "click",
+        "the",
+        "icon",
+        "search",
+        "[",
+        "or",
+        "]",
+        "search",
+        "[",
+        "and",
+        "]",
+        "restrict",
+        "enlarge",
+        "except",
+        "rerank",
+        "browse",
+        "Teilwortsuche",
+        "[",
+        "SW",
+        "]",
+        "Phrase",
+        "[",
+        "SP",
+        "]",
+        "Subject",
+        "heading",
+        ",",
+        "person[SWP",
+        "]",
+        "Subject",
+        "heading",
+        ",",
+        "subjects",
+        "[",
+        "SWS",
+        "]",
+        "Subject",
+        "heading",
+        ",",
+        "geographical[SWG",
+        "]",
+        "Subject",
+        "heading",
+        ",",
+        "corporation",
+        "(",
+        "name)[SWK",
+        "]",
+        "Subject",
+        "heading",
+        ",",
+        "corporation",
+        "(",
+        "place)[SWC",
+        "]",
+        "Subject",
+        "heading",
+        ",",
+        "uniform",
+        "title",
+        "[",
+        "SWT",
+        "]",
+        "Person",
+        "/",
+        "author",
+        "(",
+        "phrase",
+        ":",
+        "surname",
+        ",",
+        "first",
+        "name",
+        ")",
+        "[",
+        "PER",
+        "]",
+        "Person",
+        ",",
+        "author",
+        "(",
+        "keyword",
+        ")",
+        "[",
+        "PST",
+        "]",
+        "corporations",
+        ",",
+        "congresses",
+        ",",
+        "geographics",
+        "(",
+        "keyword)[KOR",
+        "]",
+        "corporations",
+        ",",
+        "congresses",
+        ",",
+        "geographics",
+        "(",
+        "phrase)[KOR",
+        "]",
+        "Urheber",
+        ":",
+        "Werk[UWK",
+        "]",
+        "GND",
+        "-",
+        "Nummer",
+        "[",
+        "NID",
+        "]",
+        "Sonstige",
+        "Standardnummern",
+        "[",
+        "NUM",
+        "]",
+        "Redaktionelle",
+        "Bemerkungen",
+        ",",
+        "Definitionen",
+        "[",
+        "BEM",
+        "]",
+        "sort",
+        "by",
+        "relevance",
+        "alphabetical",
+        "(",
+        "A",
+        "..",
+        "Z",
+        ")",
+        "alphabetical",
+        "(",
+        "Z",
+        "..",
+        "A",
+        ")"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 7
+        },
+        {
+            "start": 7,
+            "end": 8
+        },
+        {
+            "start": 8,
+            "end": 17
+        },
+        {
+            "start": 17,
+            "end": 18
+        },
+        {
+            "start": 18,
+            "end": 24
+        },
+        {
+            "start": 25,
+            "end": 29
+        },
+        {
+            "start": 30,
+            "end": 36
+        },
+        {
+            "start": 37,
+            "end": 39
+        },
+        {
+            "start": 40,
+            "end": 47
+        },
+        {
+            "start": 48,
+            "end": 51
+        },
+        {
+            "start": 52,
+            "end": 56
+        },
+        {
+            "start": 57,
+            "end": 60
+        },
+        {
+            "start": 61,
+            "end": 67
+        },
+        {
+            "start": 68,
+            "end": 70
+        },
+        {
+            "start": 71,
+            "end": 75
+        },
+        {
+            "start": 76,
+            "end": 78
+        },
+        {
+            "start": 79,
+            "end": 82
+        },
+        {
+            "start": 83,
+            "end": 88
+        },
+        {
+            "start": 89,
+            "end": 95
+        },
+        {
+            "start": 96,
+            "end": 98
+        },
+        {
+            "start": 98,
+            "end": 99
+        },
+        {
+            "start": 100,
+            "end": 101
+        },
+        {
+            "start": 102,
+            "end": 108
+        },
+        {
+            "start": 109,
+            "end": 110
+        },
+        {
+            "start": 110,
+            "end": 113
+        },
+        {
+            "start": 113,
+            "end": 114
+        },
+        {
+            "start": 115,
+            "end": 116
+        },
+        {
+            "start": 117,
+            "end": 118
+        },
+        {
+            "start": 119,
+            "end": 125
+        },
+        {
+            "start": 126,
+            "end": 135
+        },
+        {
+            "start": 136,
+            "end": 138
+        },
+        {
+            "start": 139,
+            "end": 142
+        },
+        {
+            "start": 143,
+            "end": 145
+        },
+        {
+            "start": 146,
+            "end": 150
+        },
+        {
+            "start": 151,
+            "end": 157
+        },
+        {
+            "start": 158,
+            "end": 163
+        },
+        {
+            "start": 163,
+            "end": 164
+        },
+        {
+            "start": 164,
+            "end": 169
+        },
+        {
+            "start": 170,
+            "end": 173
+        },
+        {
+            "start": 174,
+            "end": 180
+        },
+        {
+            "start": 181,
+            "end": 185
+        },
+        {
+            "start": 186,
+            "end": 193
+        },
+        {
+            "start": 194,
+            "end": 197
+        },
+        {
+            "start": 198,
+            "end": 201
+        },
+        {
+            "start": 202,
+            "end": 208
+        },
+        {
+            "start": 209,
+            "end": 214
+        },
+        {
+            "start": 215,
+            "end": 222
+        },
+        {
+            "start": 222,
+            "end": 223
+        },
+        {
+            "start": 223,
+            "end": 224
+        },
+        {
+            "start": 225,
+            "end": 231
+        },
+        {
+            "start": 232,
+            "end": 233
+        },
+        {
+            "start": 233,
+            "end": 235
+        },
+        {
+            "start": 235,
+            "end": 236
+        },
+        {
+            "start": 237,
+            "end": 238
+        },
+        {
+            "start": 239,
+            "end": 240
+        },
+        {
+            "start": 241,
+            "end": 247
+        },
+        {
+            "start": 248,
+            "end": 257
+        },
+        {
+            "start": 258,
+            "end": 262
+        },
+        {
+            "start": 263,
+            "end": 266
+        },
+        {
+            "start": 267,
+            "end": 269
+        },
+        {
+            "start": 270,
+            "end": 274
+        },
+        {
+            "start": 275,
+            "end": 281
+        },
+        {
+            "start": 282,
+            "end": 287
+        },
+        {
+            "start": 288,
+            "end": 293
+        },
+        {
+            "start": 293,
+            "end": 294
+        },
+        {
+            "start": 294,
+            "end": 297
+        },
+        {
+            "start": 298,
+            "end": 304
+        },
+        {
+            "start": 305,
+            "end": 309
+        },
+        {
+            "start": 310,
+            "end": 317
+        },
+        {
+            "start": 318,
+            "end": 320
+        },
+        {
+            "start": 321,
+            "end": 326
+        },
+        {
+            "start": 327,
+            "end": 330
+        },
+        {
+            "start": 331,
+            "end": 333
+        },
+        {
+            "start": 334,
+            "end": 337
+        },
+        {
+            "start": 338,
+            "end": 344
+        },
+        {
+            "start": 345,
+            "end": 350
+        },
+        {
+            "start": 350,
+            "end": 351
+        },
+        {
+            "start": 351,
+            "end": 352
+        },
+        {
+            "start": 352,
+            "end": 353
+        },
+        {
+            "start": 354,
+            "end": 360
+        },
+        {
+            "start": 361,
+            "end": 362
+        },
+        {
+            "start": 363,
+            "end": 367
+        },
+        {
+            "start": 368,
+            "end": 371
+        },
+        {
+            "start": 372,
+            "end": 381
+        },
+        {
+            "start": 382,
+            "end": 388
+        },
+        {
+            "start": 389,
+            "end": 392
+        },
+        {
+            "start": 393,
+            "end": 396
+        },
+        {
+            "start": 396,
+            "end": 397
+        },
+        {
+            "start": 397,
+            "end": 401
+        },
+        {
+            "start": 402,
+            "end": 405
+        },
+        {
+            "start": 406,
+            "end": 411
+        },
+        {
+            "start": 412,
+            "end": 415
+        },
+        {
+            "start": 416,
+            "end": 419
+        },
+        {
+            "start": 420,
+            "end": 426
+        },
+        {
+            "start": 427,
+            "end": 432
+        },
+        {
+            "start": 433,
+            "end": 436
+        },
+        {
+            "start": 437,
+            "end": 441
+        },
+        {
+            "start": 442,
+            "end": 449
+        },
+        {
+            "start": 449,
+            "end": 450
+        },
+        {
+            "start": 450,
+            "end": 451
+        },
+        {
+            "start": 451,
+            "end": 452
+        },
+        {
+            "start": 453,
+            "end": 458
+        },
+        {
+            "start": 459,
+            "end": 460
+        },
+        {
+            "start": 461,
+            "end": 467
+        },
+        {
+            "start": 468,
+            "end": 470
+        },
+        {
+            "start": 471,
+            "end": 473
+        },
+        {
+            "start": 474,
+            "end": 482
+        },
+        {
+            "start": 483,
+            "end": 485
+        },
+        {
+            "start": 486,
+            "end": 487
+        },
+        {
+            "start": 487,
+            "end": 494
+        },
+        {
+            "start": 494,
+            "end": 495
+        },
+        {
+            "start": 495,
+            "end": 496
+        },
+        {
+            "start": 497,
+            "end": 498
+        },
+        {
+            "start": 498,
+            "end": 506
+        },
+        {
+            "start": 506,
+            "end": 507
+        },
+        {
+            "start": 507,
+            "end": 508
+        },
+        {
+            "start": 509,
+            "end": 512
+        },
+        {
+            "start": 512,
+            "end": 513
+        },
+        {
+            "start": 514,
+            "end": 517
+        },
+        {
+            "start": 518,
+            "end": 525
+        },
+        {
+            "start": 525,
+            "end": 526
+        },
+        {
+            "start": 527,
+            "end": 530
+        },
+        {
+            "start": 531,
+            "end": 535
+        },
+        {
+            "start": 536,
+            "end": 541
+        },
+        {
+            "start": 542,
+            "end": 545
+        },
+        {
+            "start": 546,
+            "end": 552
+        },
+        {
+            "start": 553,
+            "end": 556
+        },
+        {
+            "start": 556,
+            "end": 557
+        },
+        {
+            "start": 558,
+            "end": 564
+        },
+        {
+            "start": 565,
+            "end": 570
+        },
+        {
+            "start": 571,
+            "end": 574
+        },
+        {
+            "start": 575,
+            "end": 579
+        },
+        {
+            "start": 580,
+            "end": 586
+        },
+        {
+            "start": 587,
+            "end": 588
+        },
+        {
+            "start": 588,
+            "end": 590
+        },
+        {
+            "start": 590,
+            "end": 591
+        },
+        {
+            "start": 592,
+            "end": 598
+        },
+        {
+            "start": 599,
+            "end": 600
+        },
+        {
+            "start": 600,
+            "end": 603
+        },
+        {
+            "start": 603,
+            "end": 604
+        },
+        {
+            "start": 605,
+            "end": 613
+        },
+        {
+            "start": 614,
+            "end": 621
+        },
+        {
+            "start": 622,
+            "end": 628
+        },
+        {
+            "start": 629,
+            "end": 635
+        },
+        {
+            "start": 636,
+            "end": 642
+        },
+        {
+            "start": 643,
+            "end": 656
+        },
+        {
+            "start": 657,
+            "end": 658
+        },
+        {
+            "start": 658,
+            "end": 660
+        },
+        {
+            "start": 660,
+            "end": 661
+        },
+        {
+            "start": 662,
+            "end": 668
+        },
+        {
+            "start": 669,
+            "end": 670
+        },
+        {
+            "start": 670,
+            "end": 672
+        },
+        {
+            "start": 672,
+            "end": 673
+        },
+        {
+            "start": 674,
+            "end": 681
+        },
+        {
+            "start": 682,
+            "end": 689
+        },
+        {
+            "start": 689,
+            "end": 690
+        },
+        {
+            "start": 691,
+            "end": 701
+        },
+        {
+            "start": 701,
+            "end": 702
+        },
+        {
+            "start": 703,
+            "end": 710
+        },
+        {
+            "start": 711,
+            "end": 718
+        },
+        {
+            "start": 718,
+            "end": 719
+        },
+        {
+            "start": 720,
+            "end": 728
+        },
+        {
+            "start": 729,
+            "end": 730
+        },
+        {
+            "start": 730,
+            "end": 733
+        },
+        {
+            "start": 733,
+            "end": 734
+        },
+        {
+            "start": 735,
+            "end": 742
+        },
+        {
+            "start": 743,
+            "end": 750
+        },
+        {
+            "start": 750,
+            "end": 751
+        },
+        {
+            "start": 752,
+            "end": 768
+        },
+        {
+            "start": 768,
+            "end": 769
+        },
+        {
+            "start": 770,
+            "end": 777
+        },
+        {
+            "start": 778,
+            "end": 785
+        },
+        {
+            "start": 785,
+            "end": 786
+        },
+        {
+            "start": 787,
+            "end": 798
+        },
+        {
+            "start": 799,
+            "end": 800
+        },
+        {
+            "start": 800,
+            "end": 809
+        },
+        {
+            "start": 809,
+            "end": 810
+        },
+        {
+            "start": 811,
+            "end": 818
+        },
+        {
+            "start": 819,
+            "end": 826
+        },
+        {
+            "start": 826,
+            "end": 827
+        },
+        {
+            "start": 828,
+            "end": 839
+        },
+        {
+            "start": 840,
+            "end": 841
+        },
+        {
+            "start": 841,
+            "end": 851
+        },
+        {
+            "start": 851,
+            "end": 852
+        },
+        {
+            "start": 853,
+            "end": 860
+        },
+        {
+            "start": 861,
+            "end": 868
+        },
+        {
+            "start": 868,
+            "end": 869
+        },
+        {
+            "start": 870,
+            "end": 877
+        },
+        {
+            "start": 878,
+            "end": 883
+        },
+        {
+            "start": 884,
+            "end": 885
+        },
+        {
+            "start": 885,
+            "end": 888
+        },
+        {
+            "start": 888,
+            "end": 889
+        },
+        {
+            "start": 890,
+            "end": 896
+        },
+        {
+            "start": 896,
+            "end": 897
+        },
+        {
+            "start": 897,
+            "end": 903
+        },
+        {
+            "start": 904,
+            "end": 905
+        },
+        {
+            "start": 905,
+            "end": 911
+        },
+        {
+            "start": 911,
+            "end": 912
+        },
+        {
+            "start": 913,
+            "end": 920
+        },
+        {
+            "start": 920,
+            "end": 921
+        },
+        {
+            "start": 922,
+            "end": 927
+        },
+        {
+            "start": 928,
+            "end": 932
+        },
+        {
+            "start": 932,
+            "end": 933
+        },
+        {
+            "start": 934,
+            "end": 935
+        },
+        {
+            "start": 935,
+            "end": 938
+        },
+        {
+            "start": 938,
+            "end": 939
+        },
+        {
+            "start": 940,
+            "end": 946
+        },
+        {
+            "start": 946,
+            "end": 947
+        },
+        {
+            "start": 948,
+            "end": 954
+        },
+        {
+            "start": 955,
+            "end": 956
+        },
+        {
+            "start": 956,
+            "end": 963
+        },
+        {
+            "start": 963,
+            "end": 964
+        },
+        {
+            "start": 965,
+            "end": 966
+        },
+        {
+            "start": 966,
+            "end": 969
+        },
+        {
+            "start": 969,
+            "end": 970
+        },
+        {
+            "start": 971,
+            "end": 983
+        },
+        {
+            "start": 983,
+            "end": 984
+        },
+        {
+            "start": 985,
+            "end": 995
+        },
+        {
+            "start": 995,
+            "end": 996
+        },
+        {
+            "start": 997,
+            "end": 1008
+        },
+        {
+            "start": 1009,
+            "end": 1010
+        },
+        {
+            "start": 1010,
+            "end": 1022
+        },
+        {
+            "start": 1022,
+            "end": 1023
+        },
+        {
+            "start": 1024,
+            "end": 1036
+        },
+        {
+            "start": 1036,
+            "end": 1037
+        },
+        {
+            "start": 1038,
+            "end": 1048
+        },
+        {
+            "start": 1048,
+            "end": 1049
+        },
+        {
+            "start": 1050,
+            "end": 1061
+        },
+        {
+            "start": 1062,
+            "end": 1063
+        },
+        {
+            "start": 1063,
+            "end": 1074
+        },
+        {
+            "start": 1074,
+            "end": 1075
+        },
+        {
+            "start": 1076,
+            "end": 1083
+        },
+        {
+            "start": 1083,
+            "end": 1084
+        },
+        {
+            "start": 1085,
+            "end": 1093
+        },
+        {
+            "start": 1093,
+            "end": 1094
+        },
+        {
+            "start": 1095,
+            "end": 1098
+        },
+        {
+            "start": 1098,
+            "end": 1099
+        },
+        {
+            "start": 1099,
+            "end": 1105
+        },
+        {
+            "start": 1106,
+            "end": 1107
+        },
+        {
+            "start": 1107,
+            "end": 1110
+        },
+        {
+            "start": 1110,
+            "end": 1111
+        },
+        {
+            "start": 1112,
+            "end": 1120
+        },
+        {
+            "start": 1121,
+            "end": 1136
+        },
+        {
+            "start": 1137,
+            "end": 1138
+        },
+        {
+            "start": 1138,
+            "end": 1141
+        },
+        {
+            "start": 1141,
+            "end": 1142
+        },
+        {
+            "start": 1143,
+            "end": 1156
+        },
+        {
+            "start": 1157,
+            "end": 1168
+        },
+        {
+            "start": 1168,
+            "end": 1169
+        },
+        {
+            "start": 1170,
+            "end": 1182
+        },
+        {
+            "start": 1183,
+            "end": 1184
+        },
+        {
+            "start": 1184,
+            "end": 1187
+        },
+        {
+            "start": 1187,
+            "end": 1188
+        },
+        {
+            "start": 1189,
+            "end": 1193
+        },
+        {
+            "start": 1194,
+            "end": 1196
+        },
+        {
+            "start": 1197,
+            "end": 1206
+        },
+        {
+            "start": 1207,
+            "end": 1219
+        },
+        {
+            "start": 1220,
+            "end": 1221
+        },
+        {
+            "start": 1221,
+            "end": 1222
+        },
+        {
+            "start": 1222,
+            "end": 1224
+        },
+        {
+            "start": 1224,
+            "end": 1225
+        },
+        {
+            "start": 1225,
+            "end": 1226
+        },
+        {
+            "start": 1227,
+            "end": 1239
+        },
+        {
+            "start": 1240,
+            "end": 1241
+        },
+        {
+            "start": 1241,
+            "end": 1242
+        },
+        {
+            "start": 1242,
+            "end": 1244
+        },
+        {
+            "start": 1244,
+            "end": 1245
+        },
+        {
+            "start": 1245,
+            "end": 1246
+        }
+    ],
+    "coref": []
+}

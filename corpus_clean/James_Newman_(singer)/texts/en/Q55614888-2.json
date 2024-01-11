@@ -1,1 +1,122 @@
-{"title": "James Newman", "text": "James Newman\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.", "original_url": "https://www.allmusic.com/artist/mn0000257504", "wayback_url": "https://web.archive.org/web/20180613014040/https://www.allmusic.com/artist/mn0000257504", "a_id": "Q55614888-2"}
+{
+    "title": "James Newman",
+    "text": "James Newman\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.",
+    "original_url": "https://www.allmusic.com/artist/mn0000257504",
+    "wayback_url": "https://web.archive.org/web/20180613014040/https://www.allmusic.com/artist/mn0000257504",
+    "a_id": "Q55614888-2",
+    "id_token": [
+        "James",
+        "Newman",
+        "\n",
+        "AllMusic",
+        "relies",
+        "heavily",
+        "on",
+        "JavaScript",
+        ".",
+        "\n",
+        "Please",
+        "enable",
+        "JavaScript",
+        "in",
+        "your",
+        "browser",
+        "to",
+        "use",
+        "the",
+        "site",
+        "fully",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 5
+        },
+        {
+            "start": 6,
+            "end": 12
+        },
+        {
+            "start": 12,
+            "end": 13
+        },
+        {
+            "start": 13,
+            "end": 21
+        },
+        {
+            "start": 22,
+            "end": 28
+        },
+        {
+            "start": 29,
+            "end": 36
+        },
+        {
+            "start": 37,
+            "end": 39
+        },
+        {
+            "start": 40,
+            "end": 50
+        },
+        {
+            "start": 50,
+            "end": 51
+        },
+        {
+            "start": 51,
+            "end": 52
+        },
+        {
+            "start": 52,
+            "end": 58
+        },
+        {
+            "start": 59,
+            "end": 65
+        },
+        {
+            "start": 66,
+            "end": 76
+        },
+        {
+            "start": 77,
+            "end": 79
+        },
+        {
+            "start": 80,
+            "end": 84
+        },
+        {
+            "start": 85,
+            "end": 92
+        },
+        {
+            "start": 93,
+            "end": 95
+        },
+        {
+            "start": 96,
+            "end": 99
+        },
+        {
+            "start": 100,
+            "end": 103
+        },
+        {
+            "start": 104,
+            "end": 108
+        },
+        {
+            "start": 109,
+            "end": 114
+        },
+        {
+            "start": 114,
+            "end": 115
+        }
+    ],
+    "coref": []
+}

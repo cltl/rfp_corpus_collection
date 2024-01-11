@@ -1,0 +1,242 @@
+{
+    "title": "Eurovision: United Kingdom's hopes rest on James Newman",
+    "text": "Eurovision: United Kingdom's hopes rest on James Newman\nA rehearsal performance of their song 10 Years will be screened during the final, as it was during the second semi-final which took place on Thursday.",
+    "original_url": "https://www.bbc.co.uk/news/entertainment-arts-57198762",
+    "wayback_url": "https://web.archive.org/web/20210522000503/https://www.bbc.co.uk/news/entertainment-arts-57198762",
+    "a_id": "Q50729731-307",
+    "id_token": [
+        "Eurovision",
+        ":",
+        "United",
+        "Kingdom",
+        "'s",
+        "hopes",
+        "rest",
+        "on",
+        "James",
+        "Newman",
+        "\n",
+        "A",
+        "rehearsal",
+        "performance",
+        "of",
+        "their",
+        "song",
+        "10",
+        "Years",
+        "will",
+        "be",
+        "screened",
+        "during",
+        "the",
+        "final",
+        ",",
+        "as",
+        "it",
+        "was",
+        "during",
+        "the",
+        "second",
+        "semi",
+        "-",
+        "final",
+        "which",
+        "took",
+        "place",
+        "on",
+        "Thursday",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 10
+        },
+        {
+            "start": 10,
+            "end": 11
+        },
+        {
+            "start": 12,
+            "end": 18
+        },
+        {
+            "start": 19,
+            "end": 26
+        },
+        {
+            "start": 26,
+            "end": 28
+        },
+        {
+            "start": 29,
+            "end": 34
+        },
+        {
+            "start": 35,
+            "end": 39
+        },
+        {
+            "start": 40,
+            "end": 42
+        },
+        {
+            "start": 43,
+            "end": 48
+        },
+        {
+            "start": 49,
+            "end": 55
+        },
+        {
+            "start": 55,
+            "end": 56
+        },
+        {
+            "start": 56,
+            "end": 57
+        },
+        {
+            "start": 58,
+            "end": 67
+        },
+        {
+            "start": 68,
+            "end": 79
+        },
+        {
+            "start": 80,
+            "end": 82
+        },
+        {
+            "start": 83,
+            "end": 88
+        },
+        {
+            "start": 89,
+            "end": 93
+        },
+        {
+            "start": 94,
+            "end": 96
+        },
+        {
+            "start": 97,
+            "end": 102
+        },
+        {
+            "start": 103,
+            "end": 107
+        },
+        {
+            "start": 108,
+            "end": 110
+        },
+        {
+            "start": 111,
+            "end": 119
+        },
+        {
+            "start": 120,
+            "end": 126
+        },
+        {
+            "start": 127,
+            "end": 130
+        },
+        {
+            "start": 131,
+            "end": 136
+        },
+        {
+            "start": 136,
+            "end": 137
+        },
+        {
+            "start": 138,
+            "end": 140
+        },
+        {
+            "start": 141,
+            "end": 143
+        },
+        {
+            "start": 144,
+            "end": 147
+        },
+        {
+            "start": 148,
+            "end": 154
+        },
+        {
+            "start": 155,
+            "end": 158
+        },
+        {
+            "start": 159,
+            "end": 165
+        },
+        {
+            "start": 166,
+            "end": 170
+        },
+        {
+            "start": 170,
+            "end": 171
+        },
+        {
+            "start": 171,
+            "end": 176
+        },
+        {
+            "start": 177,
+            "end": 182
+        },
+        {
+            "start": 183,
+            "end": 187
+        },
+        {
+            "start": 188,
+            "end": 193
+        },
+        {
+            "start": 194,
+            "end": 196
+        },
+        {
+            "start": 197,
+            "end": 205
+        },
+        {
+            "start": 205,
+            "end": 206
+        }
+    ],
+    "coref": [
+        {
+            "hopes": [
+                [
+                    5
+                ]
+            ],
+            "their": [
+                [
+                    15
+                ]
+            ]
+        },
+        {
+            "performance": [
+                [
+                    13
+                ]
+            ],
+            "it": [
+                [
+                    27
+                ]
+            ]
+        }
+    ]
+}

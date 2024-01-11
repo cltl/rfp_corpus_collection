@@ -1,1 +1,122 @@
-{"title": "Destiny Chukunyere", "text": "Destiny Chukunyere\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.", "original_url": "https://www.allmusic.com/artist/mn0003455619/", "wayback_url": "https://web.archive.org/web/20200413012112/https://www.allmusic.com/artist/mn0003455619/", "a_id": "Q21524985-0"}
+{
+    "title": "Destiny Chukunyere",
+    "text": "Destiny Chukunyere\nAllMusic relies heavily on JavaScript.\nPlease enable JavaScript in your browser to use the site fully.",
+    "original_url": "https://www.allmusic.com/artist/mn0003455619/",
+    "wayback_url": "https://web.archive.org/web/20200413012112/https://www.allmusic.com/artist/mn0003455619/",
+    "a_id": "Q21524985-0",
+    "id_token": [
+        "Destiny",
+        "Chukunyere",
+        "\n",
+        "AllMusic",
+        "relies",
+        "heavily",
+        "on",
+        "JavaScript",
+        ".",
+        "\n",
+        "Please",
+        "enable",
+        "JavaScript",
+        "in",
+        "your",
+        "browser",
+        "to",
+        "use",
+        "the",
+        "site",
+        "fully",
+        "."
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 7
+        },
+        {
+            "start": 8,
+            "end": 18
+        },
+        {
+            "start": 18,
+            "end": 19
+        },
+        {
+            "start": 19,
+            "end": 27
+        },
+        {
+            "start": 28,
+            "end": 34
+        },
+        {
+            "start": 35,
+            "end": 42
+        },
+        {
+            "start": 43,
+            "end": 45
+        },
+        {
+            "start": 46,
+            "end": 56
+        },
+        {
+            "start": 56,
+            "end": 57
+        },
+        {
+            "start": 57,
+            "end": 58
+        },
+        {
+            "start": 58,
+            "end": 64
+        },
+        {
+            "start": 65,
+            "end": 71
+        },
+        {
+            "start": 72,
+            "end": 82
+        },
+        {
+            "start": 83,
+            "end": 85
+        },
+        {
+            "start": 86,
+            "end": 90
+        },
+        {
+            "start": 91,
+            "end": 98
+        },
+        {
+            "start": 99,
+            "end": 101
+        },
+        {
+            "start": 102,
+            "end": 105
+        },
+        {
+            "start": 106,
+            "end": 109
+        },
+        {
+            "start": 110,
+            "end": 114
+        },
+        {
+            "start": 115,
+            "end": 120
+        },
+        {
+            "start": 120,
+            "end": 121
+        }
+    ],
+    "coref": []
+}

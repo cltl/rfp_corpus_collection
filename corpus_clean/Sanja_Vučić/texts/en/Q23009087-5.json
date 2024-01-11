@@ -1,1 +1,233 @@
-{"title": "Sanja Vucic", "text": "Sanja Vucic\nJimmy Kimmel may be hosting, but let IMDb be your guide to the Oscars with winner updates, photos from the red carpet, exclusive video interviews, and more.\nVisit our Guide to the Oscars", "original_url": "https://www.imdb.com/name/nm8143599/", "wayback_url": "https://web.archive.org/web/20170216061043/http://www.imdb.com/name/nm8143599/", "a_id": "Q23009087-5"}
+{
+    "title": "Sanja Vucic",
+    "text": "Sanja Vucic\nJimmy Kimmel may be hosting, but let IMDb be your guide to the Oscars with winner updates, photos from the red carpet, exclusive video interviews, and more.\nVisit our Guide to the Oscars",
+    "original_url": "https://www.imdb.com/name/nm8143599/",
+    "wayback_url": "https://web.archive.org/web/20170216061043/http://www.imdb.com/name/nm8143599/",
+    "a_id": "Q23009087-5",
+    "id_token": [
+        "Sanja",
+        "Vucic",
+        "\n",
+        "Jimmy",
+        "Kimmel",
+        "may",
+        "be",
+        "hosting",
+        ",",
+        "but",
+        "let",
+        "IMDb",
+        "be",
+        "your",
+        "guide",
+        "to",
+        "the",
+        "Oscars",
+        "with",
+        "winner",
+        "updates",
+        ",",
+        "photos",
+        "from",
+        "the",
+        "red",
+        "carpet",
+        ",",
+        "exclusive",
+        "video",
+        "interviews",
+        ",",
+        "and",
+        "more",
+        ".",
+        "\n",
+        "Visit",
+        "our",
+        "Guide",
+        "to",
+        "the",
+        "Oscars"
+    ],
+    "id_token_offset": [
+        {
+            "start": 0,
+            "end": 5
+        },
+        {
+            "start": 6,
+            "end": 11
+        },
+        {
+            "start": 11,
+            "end": 12
+        },
+        {
+            "start": 12,
+            "end": 17
+        },
+        {
+            "start": 18,
+            "end": 24
+        },
+        {
+            "start": 25,
+            "end": 28
+        },
+        {
+            "start": 29,
+            "end": 31
+        },
+        {
+            "start": 32,
+            "end": 39
+        },
+        {
+            "start": 39,
+            "end": 40
+        },
+        {
+            "start": 41,
+            "end": 44
+        },
+        {
+            "start": 45,
+            "end": 48
+        },
+        {
+            "start": 49,
+            "end": 53
+        },
+        {
+            "start": 54,
+            "end": 56
+        },
+        {
+            "start": 57,
+            "end": 61
+        },
+        {
+            "start": 62,
+            "end": 67
+        },
+        {
+            "start": 68,
+            "end": 70
+        },
+        {
+            "start": 71,
+            "end": 74
+        },
+        {
+            "start": 75,
+            "end": 81
+        },
+        {
+            "start": 82,
+            "end": 86
+        },
+        {
+            "start": 87,
+            "end": 93
+        },
+        {
+            "start": 94,
+            "end": 101
+        },
+        {
+            "start": 101,
+            "end": 102
+        },
+        {
+            "start": 103,
+            "end": 109
+        },
+        {
+            "start": 110,
+            "end": 114
+        },
+        {
+            "start": 115,
+            "end": 118
+        },
+        {
+            "start": 119,
+            "end": 122
+        },
+        {
+            "start": 123,
+            "end": 129
+        },
+        {
+            "start": 129,
+            "end": 130
+        },
+        {
+            "start": 131,
+            "end": 140
+        },
+        {
+            "start": 141,
+            "end": 146
+        },
+        {
+            "start": 147,
+            "end": 157
+        },
+        {
+            "start": 157,
+            "end": 158
+        },
+        {
+            "start": 159,
+            "end": 162
+        },
+        {
+            "start": 163,
+            "end": 167
+        },
+        {
+            "start": 167,
+            "end": 168
+        },
+        {
+            "start": 168,
+            "end": 169
+        },
+        {
+            "start": 169,
+            "end": 174
+        },
+        {
+            "start": 175,
+            "end": 178
+        },
+        {
+            "start": 179,
+            "end": 184
+        },
+        {
+            "start": 185,
+            "end": 187
+        },
+        {
+            "start": 188,
+            "end": 191
+        },
+        {
+            "start": 192,
+            "end": 198
+        }
+    ],
+    "coref": [
+        {
+            "Oscars": [
+                [
+                    17
+                ],
+                [
+                    41
+                ]
+            ]
+        }
+    ]
+}
